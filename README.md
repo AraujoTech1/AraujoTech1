@@ -19,7 +19,7 @@
 </head>
 <body>
   <h1>Fernanda Araujo</h1>
-  <p>Olá! Sou uma profissional apaixonada por tecnologia, com foco em Cloud Computing. ☁️</p>
+  <p>Olá! Sou apaixonada por tecnologia, com foco em Cloud Computing. ☁️</p>
 
   <p>Minha jornada profissional começou no atendimento ao cliente, onde desenvolvi habilidades em organização, resiliência e trabalho em equipe. </p>
 
