@@ -32,7 +32,7 @@
 
   <p>Atualmente, estou aprimorando minhas habilidades em Cloud Computing e buscando oportunidades para colaborar em projetos. </p>
 
-  <p>[✉️ Entre em contato comigo](mailto:xfernandaaraujo@gmail.com)</p>
+  <p><a href="mailto:xfernandaaraujo@gmail.com">✉️ Entre em contato comigo</a></p>
 
   <p>⚡ Curiosidade: Sou autodidata e dinâmica, sempre buscando novos desafios e aprendizados!</p>
 
@@ -42,7 +42,8 @@
         const elements = document.querySelectorAll("p");
 
         elements.forEach(element => {
-            element.innerHTML = element.innerHTML.replace(new RegExp(keyword, 'g'), `<span class="highlight">${keyword}</span>`);
+            const regex = new RegExp(`\\b${keyword}\\b`, 'gi');
+            element.innerHTML = element.innerHTML.replace(regex, `<span class="highlight">${keyword}</span>`);
         });
     });
   </script>
