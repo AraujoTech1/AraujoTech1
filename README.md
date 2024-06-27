@@ -19,7 +19,7 @@
 </head>
 <body>
   <h1>Fernanda Araujo</h1>
-  <p>Olá! Sou apaixonada por tecnologia, e projetos em Cloud. ☁️</p>
+  <p>Olá! Sou apaixonada por tecnologia, e projetos em Cloud. ☁️💡</p>
 
   <p>Minha jornada profissional começou no atendimento ao cliente, onde desenvolvi habilidades em organização, resiliência e trabalho em equipe. </p>
 
