@@ -15,6 +15,11 @@
       font-size: 1.2em;
       margin: 0 0.2em;
     }
+
+    .highlight {
+      color: blue;
+      font-weight: bold;
+    }
   </style>
 </head>
 <body>
@@ -30,5 +35,16 @@
   <p>[✉️ Entre em contato comigo](mailto:xfernandaaraujo@gmail.com)</p>
 
   <p>⚡ Curiosidade: Sou autodidata e dinâmica, sempre buscando novos desafios e aprendizados!</p>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const keyword = "tecnologia";
+        const elements = document.querySelectorAll("p");
+
+        elements.forEach(element => {
+            element.innerHTML = element.innerHTML.replace(new RegExp(keyword, 'g'), `<span class="highlight">${keyword}</span>`);
+        });
+    });
+  </script>
 </body>
 </html>
