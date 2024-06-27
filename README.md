@@ -1,13 +1,18 @@
-# Fernanda Araújo
+import markdown
 
-Olá! Sou apaixonada por <span style="color:lightblue;">**tecnologia**</span> e projetos em <span style="color:lightblue;">**Cloud**</span>. ☁️💡
+# Ler o conteúdo do arquivo README.md
+with open('README.md', 'r', encoding='utf-8') as file:
+    markdown_text = file.read()
 
-Minha jornada profissional começou no atendimento ao cliente, onde desenvolvi habilidades em organização, resiliência e trabalho em equipe.
+# Converter Markdown para HTML
+html = markdown.markdown(markdown_text)
 
-Mas meu verdadeiro sonho sempre foi trabalhar com <span style="color:lightblue;">**tecnologia**</span>. Desde sempre, me fascino pelo mundo digital e, na busca por conhecimento, encontrei minha paixão pela área de <span style="color:lightblue;">**Cloud**</span>.
+# Adicionar estilos às palavras específicas
+html = html.replace('**tecnologia**', '<span style="color:lightblue; font-weight:bold;">tecnologia</span>')
+html = html.replace('Cloud', '<span style="color:lightblue;">Cloud</span>')
 
-Atualmente, estou aprimorando minhas habilidades em <span style="color:lightblue;">**Cloud Computing**</span> e buscando oportunidades para colaborar em projetos.
+# Salvar o HTML resultante em um arquivo
+with open('README.html', 'w', encoding='utf-8') as file:
+    file.write(html)
 
-[✉️ Entre em contato comigo](mailto:xfernandaaraujo@gmail.com)
-
-⚡ Curiosidade: Sou autodidata e dinâmica, sempre buscando novos desafios e aprendizados!
+print("Conversão concluída e salva em README.html")
