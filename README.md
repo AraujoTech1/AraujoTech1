@@ -1,9 +1,9 @@
 # 💼 Fernanda Araujo - Portfólio de TI e Cloud Computing
 
-👋 Olá! Sou uma profissional em transição de carreira para a área de Tecnologia da Informação com foco em Cloud Computing.
+👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira para a área de Tecnologia da Informação com foco em Cloud Computing.
 
 ## Sobre Mim
-🌐 Tenho experiência em atendimento ao cliente, contas a pagar, negociação, pagamentos e apoio na área comercial. Possuo habilidades em administração do tempo, metas e trabalho em equipe.
+🌐 Tenho experiência em atendimento ao cliente, contas a pagar, negociação, pagamentos e apoio na área comercial. Possuo habilidades em organização, resiliência, administração do tempo, metas e trabalho em equipe.
 
 🎓 Minha formação inclui Ensino Médio completo e cursos complementares de:
 - Conceitos de Informática
@@ -16,14 +16,17 @@
 - Segurança Cibernética
 - Centro de Dados e Armazenamento
 
-🚀 **Foco em AWS**:
-- EC2
-- S3
-- RDS
-- Lambda
-- IAM
-- VPC
-- AWS Config
+🚀 **Foco em alguns dos serviços e categorias da Cloud AWS**:
+- Armazenamento: S3
+- Segurança: AWS Shield, AWS WAF
+- Banco de Dados: Amazon RDS, DynamoDB
+- Redes: VPC
+- Segurança na Nuvem: AWS IAM
+- Cibersegurança: AWS GuardDuty
+- Serviço de Saúde: Amazon HealthLake
+- Gerenciamento de Custos: AWS Cost Explorer
+- Gerenciamento de Acesso e Conformidade: AWS IAM, AWS Config
+- Gerenciamento de Governança: AWS CloudTrail
 
 🔧 **Práticas**:
 - Implantação de Aplicações
@@ -32,7 +35,8 @@
 - Recuperação de Desastres
 - Backups
 
-💡 Minhas experiências permitiram me desenvolver como autodidata na área da tecnologia. Além de aprender e me adaptar rapidamente a novas tarefas e ambientes, estou sempre buscando melhorar minhas próprias práticas sem precisar de orientação externa.
+
+💡 Minhas experiências permitiram me desenvolver como autodidata na área da tecnologia.
 
 
 ## Contato
@@ -41,11 +45,11 @@
 ---
 
 ✨ **Tecnologias Usadas**:
-- ☁️ Cloud: AWS (EC2, S3, RDS, Lambda, IAM, VPC, AWS Config)
-- 💻 Sistemas Operacionais: Windows, Linux
-- 🖥️ Ferramentas: Microsoft Office (Avançado), Excel Programado e Financeiro
-- 🐍 Linguagens: Python
-- 🌐 Conceitos de Informática: Fundamentos de TI, Banco de Dados, Redes, Segurança Cibernética, Centro de Dados e Armazenamento
+- ☁️ **Cloud Computing**: AWS
+- 💻 **Sistemas Operacionais**: Windows, Linux
+- 🖥️ **Ferramentas**: Microsoft Office (Avançado), Excel Programado e Financeiro
+- 🐍 **Linguagens**: Python
+- 🌐 **Conceitos de Informática**: Fundamentos de TI, Banco de Dados, Redes, Segurança Cibernética, Centro de Dados e Armazenamento
 
-🌟 Sempre buscando aprender e melhorar, pronto para novos desafios na área de Cloud Computing!
 
+💡 Sempre buscando aprender e melhorar, pronta para novos desafios na área de Cloud!!!
