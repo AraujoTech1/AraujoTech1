@@ -8,11 +8,8 @@
 🎓 Minha formação inclui Ensino Médio completo e cursos complementares. Obtendo conhecimento em:
 - Conceitos de Informática
 - Fundamentos de TI
-- Microsoft Office (Avançado)
-- Sistemas Operacionais Windows/Linux
-- Modelos de Computação (Tradicional e Nuvem)
-- 
-
+- Cloud Computing
+- Soft Skills na Transformação Digital
 
 🚀 **Foco em alguns dos serviços e categorias da Cloud AWS**:
 - Armazenamento: S3
@@ -33,9 +30,7 @@
 - Recuperação de Desastres
 - Backups
 
-
 💡 Minhas experiências permitiram me desenvolver como autodidata na área da tecnologia.
-
 
 ## Contato
 📧 xfernandaaraujo@gmail.com
@@ -48,6 +43,5 @@
 - 🖥️ **Ferramentas**: Microsoft Office, Excel (Avançado, Programado e Financeiro)
 - 🐍 **Linguagens**: Python
 - 🌐 **Conceitos de Informática**: Fundamentos de TI, ML, IA, VM, IoT
-
 
 💡 Sempre buscando aprender e melhorar, pronta para novos desafios na área de Cloud!!!
