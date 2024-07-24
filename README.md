@@ -47,9 +47,9 @@
 ✨ **Tecnologias Usadas**:
 - ☁️ **Cloud Computing**: AWS
 - 💻 **Sistemas Operacionais**: Windows, Linux
-- 🖥️ **Ferramentas**: Microsoft Office (Avançado), Excel Programado e Financeiro
+- 🖥️ **Ferramentas**: Microsoft Office, Excel (Avançado, Programado e Financeiro
 - 🐍 **Linguagens**: Python
-- 🌐 **Conceitos de Informática**: Fundamentos de TI, Banco de Dados, Redes, Segurança Cibernética, Centro de Dados e Armazenamento
+- 🌐 **Conceitos de Informática e Fundamentos de TI**: Software,hardware, Banco de Dados, Redes, Segurança Cibernética, Centro de Dados, Armazenamento, ML, IA, VM, entre outros. 
 
 
 💡 Sempre buscando aprender e melhorar, pronta para novos desafios na área de Cloud!!!
