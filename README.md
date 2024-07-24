@@ -5,16 +5,14 @@
 ## Sobre Mim
 🌐 Tenho experiência em atendimento ao cliente, contas a pagar, negociação, pagamentos e apoio na área comercial. Possuo habilidades em organização, resiliência, administração do tempo, metas e trabalho em equipe.
 
-🎓 Minha formação inclui Ensino Médio completo e cursos complementares de:
+🎓 Minha formação inclui Ensino Médio completo e cursos complementares. Obtendo conhecimento em:
 - Conceitos de Informática
 - Fundamentos de TI
 - Microsoft Office (Avançado)
 - Sistemas Operacionais Windows/Linux
 - Modelos de Computação (Tradicional e Nuvem)
-- Banco de Dados
-- Redes
-- Segurança Cibernética
-- Centro de Dados e Armazenamento
+- 
+
 
 🚀 **Foco em alguns dos serviços e categorias da Cloud AWS**:
 - Armazenamento: S3
@@ -49,7 +47,7 @@
 - 💻 **Sistemas Operacionais**: Windows, Linux
 - 🖥️ **Ferramentas**: Microsoft Office, Excel (Avançado, Programado e Financeiro)
 - 🐍 **Linguagens**: Python
-- 🌐 **Conceitos de Informática e Fundamentos de TI**: Software,hardware, Banco de Dados, Redes, Segurança Cibernética, Centro de Dados, Armazenamento, ML, IA, VM, entre outros. 
+- 🌐 **Conceitos de Informática**: Fundamentos de TI, ML, IA, VM, IoT
 
 
 💡 Sempre buscando aprender e melhorar, pronta para novos desafios na área de Cloud!!!
