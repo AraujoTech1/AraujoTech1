@@ -1,4 +1,4 @@
-# 💼 Fernanda Araujo
+# 💼 Fernanda Araujo – Portfólio de Projetos em Cloud Computing
 
 👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira para a área de Tecnologia da Informação com foco em Cloud Computing.
 
