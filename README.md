@@ -3,7 +3,7 @@
 👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira para a área de Tecnologia da Informação com foco em Cloud Computing.
 
 ## Sobre Mim
-🌐 Tenho experiência em atendimento ao cliente, contas a pagar, negociação, pagamentos e apoio na área comercial. Possuo habilidades em organização, resiliência, administração do tempo, metas e trabalho em equipe.
+🌐 Tenho experiência em atendimento ao cliente, contas a pagar, negociação, pagamentos e suporte na área comercial. Possuo habilidades em organização, resiliência, administração do tempo, metas e trabalho em equipe.
 
 🎓 Minha formação inclui Ensino Médio completo e cursos complementares. Obtendo conhecimento em:
 - Conceitos de Informática
