@@ -30,14 +30,12 @@
 - Recuperação de Desastres
 - Backups
 
-💡 Minhas experiências permitiram me desenvolver como autodidata na área da tecnologia.
-
 ## Contato
 📧 xfernandaaraujo@gmail.com
 
 ---
 
-✨ **Tecnologias Usadas**:
+**Tecnologias Usadas**:
 - ☁️ **Cloud Computing**: AWS
 - 💻 **Sistemas Operacionais**: Windows, Linux
 - 🖥️ **Ferramentas**: Microsoft Office, Excel (Avançado, Programado e Financeiro)
