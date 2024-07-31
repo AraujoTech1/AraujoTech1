@@ -21,7 +21,7 @@ Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarket
 
 📧 xfernandaaraujo@gmail.com
 
----
+----
 
 
 **Tecnologias Usadas:**
