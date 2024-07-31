@@ -1,4 +1,4 @@
-# Portfólio para a area de TI 
+# Portfólio
 
 👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira saindo da area de **Atendimento ao Cliente** para a área de **TI**, com foco em **Cloud Computing** e **DevsecOps**. 
 
