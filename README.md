@@ -1,34 +1,21 @@
-# 💼 Fernanda Araujo – Portfólio para a area de TI e Cloud Computing
+# 💼 Fernanda Araujo – Portfólio para a area de TI 
 
-👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira para a área de Tecnologia da Informação com foco em Cloud Computing.
+👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira saindo da area de **Atendimento ao Cliente** para a área de **TI**, com foco em **Cloud Computing** e **DevsecOps**. 
 
 ## Sobre Mim
-🌐 Tenho experiência em atendimento ao cliente, contas a pagar, negociação, pagamentos e suporte na área comercial. Possuo habilidades em organização, resiliência, administração do tempo, metas e trabalho em equipe.
+Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarketing Receptivo durante 4 anos, as experiencias que adquiri foram suporte ao cliente e atendimento multskill, utilizando o sistema SAP para gerenciar as atividades e serviços no dia a dia.
 
 🎓 Minha formação inclui Ensino Médio completo e cursos complementares. Obtendo conhecimento em:
-- Conceitos de Informática
-- Fundamentos de TI
-- Cloud Computing
-- Soft Skills na Transformação Digital
-
-🚀 **Foco em alguns dos serviços e categorias da Cloud AWS**:
-- Armazenamento: S3
-- Segurança: AWS Shield, AWS WAF
-- Banco de Dados: Amazon RDS, DynamoDB
-- Redes: VPC
-- Segurança na Nuvem: AWS IAM
-- Cibersegurança: AWS GuardDuty
-- Serviço de Saúde: Amazon HealthLake
-- Gerenciamento de Custos: AWS Cost Explorer
-- Gerenciamento de Acesso e Conformidade: AWS IAM, AWS Config
-- Gerenciamento de Governança: AWS CloudTrail
+- Lógica de Programação (VisualG, C++, Python, C#, Java)
+- Fundamentos em DevSecOps
+- Cloud Computing 
+- Fundamentos de Tecnologia 
+- Excel (Avançado | Financeiro | Programado)
+- Pacote Office (Avançado)
 
 🔧 **Práticas**:
-- Implantação de Aplicações
-- Migração de Sistemas
-- Redução de Custos
-- Recuperação de Desastres
-- Backups
+- Cloud 
+- DevSecOps
 
 ## Contato
 📧 xfernandaaraujo@gmail.com
