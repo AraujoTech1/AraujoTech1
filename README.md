@@ -13,20 +13,22 @@ Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarket
 - Excel (Avançado | Financeiro | Programado)
 - Pacote Office (Avançado)
 
-🔧 **Práticas**:
-- Cloud 
-- DevSecOps
+🔧 **Práticas e Projetos:**
+- **Cloud Computing:** Desenvolvimento e implementação de soluções na AWS.
+- **DevSecOps:** Configuração de pipelines de CI/CD com práticas de segurança, gerenciamento de vulnerabilidades.
 
 ## Contato
+
 📧 xfernandaaraujo@gmail.com
 
 ---
 
-**Tecnologias Usadas**:
-- ☁️ **Cloud Computing**: AWS
-- 💻 **Sistemas Operacionais**: Windows, Linux
-- 🖥️ **Ferramentas**: Microsoft Office, Excel (Avançado, Programado e Financeiro)
-- 🐍 **Linguagens**: Python
-- 🌐 **Conceitos de Informática**: Fundamentos de TI, ML, IA, VM, IoT
 
-💡 Sempre buscando aprender e melhorar, pronta para novos desafios na área de Cloud!!!
+**Tecnologias Usadas:**
+- ☁️ **Cloud Computing:** AWS
+- 💻 **Sistemas Operacionais:** Windows, Linux
+- 🖥️ **Ferramentas:** Microsoft Office (Avançado), Excel (Avançado, Programado e Financeiro)
+- 🐍 **Linguagens de Programação:** Python, C++, C#, Java
+- 🌐 **Conceitos de TI:** Fundamentos de TI, Machine Learning, Inteligência Artificial, Virtualização, Internet das Coisas (IoT)
+
+💡 Sempre buscando aprender e melhorar, estou pronta para novos desafios na área de Cloud Computing e DevSecOps!
