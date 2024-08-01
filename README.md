@@ -29,3 +29,9 @@ xfernandaaraujo@gmail.com
 - 🖥️ **Ferramentas:** Microsoft Office (Avançado), Excel (Avançado, Programado e Financeiro), SAP CRM
 - 🐍 **Linguagens de Programação:** Python, C++, C#, Java
 - 🌐 **Conceitos de TI:** Machine Learning, Inteligência Artificial, Virtualização, Internet das Coisas (IoT)
+
+- **Computação em Nuvem:** AWS (EC2, S3, RDS, Lambda, CloudFormation, CloudWatch)
+- **Sistemas Operacionais:** Windows, Linux
+- **Ferramentas:** Microsoft Office (Avançado), Excel (Avançado e Financeiro), SAP CRM
+- **Linguagens de Programação:** Python, C++, C#, Java
+- **Conceitos de TI:** Machine Learning, Inteligência Artificial, Virtualização, Internet das Coisas (IoT), DevsecOps
