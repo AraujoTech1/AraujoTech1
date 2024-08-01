@@ -2,7 +2,7 @@
 
 👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira saindo da area de **Atendimento ao Cliente** para a área de **TI**, com foco em **Cloud Computing** e **DevsecOps**. 
 
-## Sobre Mim
+## Sobre mim
 Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarketing Receptivo durante 4 anos e 7 meses, as experiencias que adquiri foram suporte ao cliente e atendimento multskill, utilizando o sistema SAP para gerenciar as atividades e serviços no dia a dia.
 
 🎓 Minha formação inclui Ensino Médio completo e cursos complementares. Obtendo conhecimento em:
@@ -18,17 +18,16 @@ Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarket
 - **DevSecOps:** Configuração de pipelines de CI/CD com práticas de segurança, gerenciamento de vulnerabilidades.
 
 ## Contato
-
 xfernandaaraujo@gmail.com
 
 ---
 
 
-**Tecnologias Usadas:**
+**Tecnologias usadas:**
 - ☁️ **Cloud Computing:** AWS
 - 💻 **Sistemas Operacionais:** Windows, Linux
 - 🖥️ **Ferramentas:** Microsoft Office (Avançado), Excel (Avançado, Programado e Financeiro), SAP CRM
 - 🐍 **Linguagens de Programação:** Python, C++, C#, Java
 - 🌐 **Conceitos de TI:** Machine Learning, Inteligência Artificial, Virtualização, Internet das Coisas (IoT)
 
-Sempre buscando aprender e melhorar, estou pronta para novos desafios na área de Cloud Computing e DevSecOps!!!
+Busco novos desafios na área de Cloud Computing e DevSecOps.
