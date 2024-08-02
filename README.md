@@ -6,7 +6,7 @@
 Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarketing Receptivo durante 4 anos e 7 meses, as experiencias que adquiri foram suporte ao cliente e atendimento multskill, utilizando o sistema SAP para gerenciar as atividades e serviços no dia a dia.
 
 🎓 Minha formação inclui Ensino Médio completo e cursos complementares. Obtendo conhecimento em:
-- Lógica de Programação (VisualG, C++, Python, C#, Java)
+- Lógica de Programação 
 - Fundamentos em DevSecOps
 - Cloud Computing 
 - Fundamentos de Tecnologia 
@@ -25,7 +25,7 @@ xfernandaaraujo@gmail.com
 
 **Tecnologias usadas:**
 
-- ☁️ **Computação em Nuvem:** AWS (EC2, S3, RDS, Lambda, CloudFormation, CloudWatch)
+- ☁️ **Computação em Nuvem:** AWS
 - 💻 **Sistemas Operacionais:** Windows, Linux
 - 🔧 **Ferramentas:** Microsoft Office (Avançado), Excel (Avançado e Financeiro), SAP CRM
 - 🐍 **Linguagens de Programação:** Python, C++, C#, Java
