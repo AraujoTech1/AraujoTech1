@@ -3,7 +3,7 @@
 👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira saindo da area de **Atendimento ao Cliente** para a área de **Tecnologia da Informação** com foco em **Cloud Computing** e **DevsecOps**
 
 ## Sobre mim
-Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarketing Receptivo durante 4 anos e 7 meses. Adquiri experiencia em comunicação, resolução de problemas e trabalho em equipe, utilizando o sistema SAP para gerenciar as atividades e serviços no dia a dia. 
+Tenho experiência como Telemarketing Receptivo, trabalhei durante 4 anos e 7 meses. Adquiri experiencia em comunicação, resolução de problemas e trabalho em equipe, utilizando o sistema SAP para gerenciar as atividades e serviços no dia a dia. 
 
 Comecei meus estudos em **Análise e Desenvolvimento de Sistemas**. Esse é um grande passo na minha jornada de transição de carreira e está alinhado com minha paixão por **Cloud Computing** e **DevSecOps**.
 
