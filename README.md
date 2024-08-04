@@ -15,8 +15,8 @@ Sempre tive uma paixão pela tecnologia, mas não sabia exatamente por onde come
 - Fundamentos em DevSecOps
 - Cloud Computing 
 - Fundamentos de Tecnologia 
-- Excel (Avançado | Financeiro | Programado)
-- Pacote Office (Avançado)
+- Microsoft Office
+
 
 🔧 **Práticas e Projetos:**
 - **Cloud Computing:** Desenvolvimento e implementação de soluções na AWS.
