@@ -7,7 +7,7 @@ Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarket
 
 Comecei meus estudos em Análise e Desenvolvimento de Sistemas. Esse é um grande passo na minha jornada de transição de carreira e está alinhado com minha paixão por Cloud Computing e DevSecOps.
 
-Sempre tive uma paixão pela tecnologia, mas não sabia exatamente por onde começar. A partir do momento em que me encontrei com Cloud Computing, o entusiasmo só cresceu, e agora estou explorando ainda mais esse universo incrível.
+Sempre tive uma paixão pela tecnologia, mas não sabia exatamente por onde começar. A partir do momento em que me encontrei com Cloud Computing, o entusiasmo só cresceu, e agora estou explorando ainda mais esse universo incrível!! 
 
 Estou empolgada com o que vem pela frente e pronta para continuar crescendo e aprendendo!
 
