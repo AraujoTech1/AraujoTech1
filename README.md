@@ -5,7 +5,8 @@
 ## Sobre mim
 Tenho experiência na área de atendimento ao cliente. Trabalhei como Telemarketing Receptivo durante 4 anos e 7 meses, as experiencias que adquiri foram suporte ao cliente e atendimento multskill, utilizando o sistema SAP para gerenciar as atividades e serviços no dia a dia.
 
-🎓 Minha formação inclui Ensino Médio completo e cursos complementares. Obtendo conhecimento em:
+🎓 Minha formação inclui Ensino Médio completo e cursando Analise e Desenvolvimento de Sistemas. 
+Obtenho conhecimento em:
 - Lógica de Programação 
 - Fundamentos em DevSecOps
 - Cloud Computing 
