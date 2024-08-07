@@ -56,7 +56,7 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 
 - 📧 [xfernandaaraujo@gmail.com](mailto:xfernandaaraujo@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fernandaaraujo1/)
-- 📱 [WhatsApp](https://wa.me/numero-do-whatsapp](https://api.whatsapp.com/send/?phone=5511912345678&text=Ol%C3%A1%21+Tenho+um+projeto+e+gostaria+de+conversar+sobre+isso.+Vamos+falar+mais+sobre+a+oportunidade%3F&type=phone_number&app_absent=0)
+- 📱 [WhatsApp](https://api.whatsapp.com/send/?phone=5511912345678&text=Ol%C3%A1%21+Tenho+um+projeto+e+gostaria+de+conversar+sobre+isso.+Vamos+falar+mais+sobre+a+oportunidade%3F&type=phone_number&app_absent=0)
 
 ---
 
