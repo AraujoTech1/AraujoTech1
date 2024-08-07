@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Minha paixão por tecnologia é o que guia minha transição de carreira para a área de Tecnologia da Informação. Minha jornada começou no atendimento ao cliente, onde desenvolvi habilidades essenciais em comunicação, resolução de problemas e trabalho em equipe. No entanto, foi na tecnologia que encontrei minha verdadeiramente.
+Minha paixão por tecnologia é o que guia minha transição de carreira para a área de Tecnologia da Informação. Minha jornada começou no atendimento ao cliente, onde desenvolvi habilidades essenciais em comunicação, resolução de problemas e trabalho em equipe. No entanto, foi na tecnologia que me encontrei verdadeiramente.
 
 Além disso, minha paixão por DevSecOps reflete meu compromisso com o desenvolvimento seguro e a integração de práticas de segurança nas operações e na programação. Acredito que a segurança não deve ser uma etapa separada, mas sim uma parte integral do ciclo de vida do desenvolvimento de software.
 
