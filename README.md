@@ -10,11 +10,9 @@
 
 ## Sobre Mim
 
-Minha paixão por tecnologia é o que guia minha transição de carreira para a área de Tecnologia da Informação. Minha jornada começou no atendimento ao cliente, onde desenvolvi habilidades essenciais em comunicação, resolução de problemas e trabalho em equipe. No entanto, foi na tecnologia que me encontrei verdadeiramente.
+Minha paixão por tecnologia é o que guia minha transição de carreira para a área de Tecnologia da Informação. Minha jornada começou no atendimento ao cliente. No entanto, foi na tecnologia que me encontrei verdadeiramente.
 
-Além disso, meu compromisso com o desenvolvimento seguro e a integração de práticas de segurança nas operações e na programação. Acredito que a segurança não deve ser uma etapa separada, mas sim uma parte integral do ciclo de vida do desenvolvimento de software.
-
-Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, um passo fundamental na minha jornada para me tornar uma profissional. Quero aplicar e expandir meus conhecimentos em SaaS e contribuir para projetos e desafios que beneficiem tanto empresas quanto profissionais em desenvolvimento no mercado.
+Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, um passo fundamental na minha jornada para me tornar uma profissional. Quero aplicar e expandir meus conhecimentos na nuvem e contribuir para projetos e desafios que beneficiem tanto empresas quanto profissionais em desenvolvimento no mercado.
 
 ---
 
