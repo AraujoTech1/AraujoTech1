@@ -4,13 +4,17 @@
   <img src="https://img.freepik.com/fotos-gratis/colagem-do-conceito-saas_23-2149399288.jpg?t=st=1723048816~exp=1723052416~hmac=d2ec39da6380edcf9d40b9774d7f89eaff7b5ab1805ddc2cbeea3011c9539120&w=826" alt="Banner" />
 </p>
 
-👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira para Tecnologia da Informação, com foco em **Cloud Computing** e **DevSecOps**.
+👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira para TI, com foco em **Cloud** e **DevSecOps**.
 
 ---
 
 ## Sobre Mim
 
-Com uma sólida experiência de mais de 4 anos e 7 meses como Telemarketing Receptivo, desenvolvi habilidades essenciais em comunicação, resolução de problemas e trabalho em equipe. Utilizei o sistema SAP para otimizar atividades diárias e serviços. Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas**, um passo significativo na minha transição de carreira e alinhado com minha paixão por **Cloud Computing** e **DevSecOps**.
+Minha paixão por tecnologia é o que guia minha transição de carreira para a área de Tecnologia da Informação. Minha jornada começou no atendimento ao cliente, onde desenvolvi habilidades essenciais em comunicação, resolução de problemas e trabalho em equipe. No entanto, foi na tecnologia que encontrei minha verdadeiramente.
+
+Além disso, minha paixão por DevSecOps reflete meu compromisso com o desenvolvimento seguro e a integração de práticas de segurança nas operações e na programação. Acredito que a segurança não deve ser uma etapa separada, mas sim uma parte integral do ciclo de vida do desenvolvimento de software.
+
+Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, um passo fundamental na minha jornada para me tornar uma profissional completa em Cloud Computing e DevSecOps. Quero aplicar e expandir meus conhecimentos em SaaS e contribuir para projetos e desafios que beneficiem tanto empresas quanto profissionais em desenvolvimento no mercado.
 
 ---
 
