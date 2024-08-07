@@ -1,6 +1,6 @@
 # Portfólio de Tecnologias em Nuvem e DevSecOps
 
-![Banner]([link-para-imagem-de-banner](https://img.freepik.com/fotos-gratis/conceito-de-rack-de-armazenamento-de-dados-em-nuvem-em-cubo-de-vidro-servidor-de-metaverso-digital-cloudscape-para-negocios-de-rede-global-tecnologia-de-infraestrutura-privada-de-computador-de-backup-de-banco-de-dados-da-web_90220-1363.jpg?t=st=1723048578~exp=1723052178~hmac=0e870894090fd252bdd3678c48659d4467e1246f07bc4fd9bcd7617ff0e48b49&w=740)
+![Banner][link-para-imagem-de-banner](https://img.freepik.com/fotos-gratis/conceito-de-rack-de-armazenamento-de-dados-em-nuvem-em-cubo-de-vidro-servidor-de-metaverso-digital-cloudscape-para-negocios-de-rede-global-tecnologia-de-infraestrutura-privada-de-computador-de-backup-de-banco-de-dados-da-web_90220-1363.jpg?t=st=1723048578~exp=1723052178~hmac=0e870894090fd252bdd3678c48659d4467e1246f07bc4fd9bcd7617ff0e48b49&w=740)
 
 👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira para Tecnologia da Informação, com foco em **Cloud Computing** e **DevSecOps**.
 
