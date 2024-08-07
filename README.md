@@ -1,6 +1,6 @@
 #  Portfólio de Tecnologias em Nuvem e DevSecOps
 
-👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira saindo da area de **Atendimento ao Cliente** para a área de **Tecnologia da Informação** com foco em **Cloud Computing** e **DevsecOps**
+👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira, saindo da área de Atendimento ao Cliente para Tecnologia da Informação, com foco em Cloud Computing e DevSecOps.
 
 ## Sobre mim
 Tenho experiência como Telemarketing Receptivo, trabalhei durante 4 anos e 7 meses. Adquiri experiencia em comunicação, resolução de problemas e trabalho em equipe, utilizando o sistema SAP para gerenciar as atividades e serviços no dia a dia. 
