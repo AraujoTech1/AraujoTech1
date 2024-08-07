@@ -38,6 +38,7 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 
 - **Pipelines CI/CD:** Configuração e integração de práticas de segurança.
 - **Gerenciamento de Vulnerabilidades:** Monitoramento e resposta a falhas.
+- **Projetos Futuros:** Estou aberta a colaborar em projetos inovadores de DevOps, focando em automação de pipelines e otimização de processos. Se você tem uma ideia ou projeto relacionado, entre em contato para explorarmos possibilidades juntos.
 
 ---
 
