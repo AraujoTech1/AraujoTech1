@@ -18,7 +18,7 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 
 ---
 
-## Conhecimentos e conhecimentos
+## Conhecimentos e Ferramentas
 
 - **Lógica de Programação:** Python
 - **DevSecOps:** Terraform, Docker, Kubernets, Jenkins, Pipelines
