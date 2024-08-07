@@ -1,6 +1,8 @@
 # Portfólio de Tecnologias em Nuvem e DevSecOps
 
-![Banner](https://img.freepik.com/fotos-gratis/colagem-do-conceito-saas_23-2149399288.jpg?t=st=1723048816~exp=1723052416~hmac=d2ec39da6380edcf9d40b9774d7f89eaff7b5ab1805ddc2cbeea3011c9539120&w=826) 
+<p align="center">
+  <img src="https://img.freepik.com/fotos-gratis/colagem-do-conceito-saas_23-2149399288.jpg?t=st=1723048816~exp=1723052416~hmac=d2ec39da6380edcf9d40b9774d7f89eaff7b5ab1805ddc2cbeea3011c9539120&w=826" alt="Banner" />
+</p>
 
 👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira para Tecnologia da Informação, com foco em **Cloud Computing** e **DevSecOps**.
 
