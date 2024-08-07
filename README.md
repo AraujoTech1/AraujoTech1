@@ -18,13 +18,13 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 
 ---
 
-## Conhecimentos
+## Conhecimentos e conhecimentos
 
-- **Lógica de Programação:** Fundamentos e conceitos em Python, C++, C#, Java
+- **Lógica de Programação:** Python
 - **DevSecOps:** Terraform, Docker, Kubernets, Jenkins, Pipelines
 - **Computação em Nuvem:** AWS (IaaS, PaaS, SaaS)
 - **Fundamentos de Tecnologia:** Conceitos e tecnologias
-- **Microsoft Office:** Word,Excel,PowerPoint,Teams,Access, OneNote, Publisher, OneDrive, Outlook(Comunicação, Organização, Integração)
+- **Microsoft Office:** Word,Excel,PowerPoint,Teams,Access, OneNote, Publisher, OneDrive e Outlook (Comunicação, Organização, Integração)
 
 ---
 
@@ -32,7 +32,7 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 
 ### Cloud Computing
 
-- **Desenvolvimento e Implementação:** Soluções, migração e arquiteturas na AWS.
+- **Desenvolvimento e Implementação:** Soluções e arquiteturas na AWS.
 - **Projetos Futuros:** Estou aberta a colaborar em projetos de Cloud Computing. Se você tiver uma ideia ou projeto e deseja trabalhar comigo, entre em contato!
 
 ### DevSecOps
@@ -46,9 +46,7 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 
 - ☁️ **Computação em Nuvem:** AWS
 - 💻 **Sistemas Operacionais:** Windows, Linux
-- 🔧 **Ferramentas:** Microsoft Office (Avançado), Excel (Avançado e Financeiro), SAP CRM
-- 🐍 **Linguagens de Programação:** Python, C++, C#, Java
-- 🌐 **Conceitos de TI:** Machine Learning, Inteligência Artificial, Virtualização, Internet das Coisas (IoT), DevSecOps
+- 🌐 **Conceitos de TI:** Machine Learning, Inteligência Artificial, Virtualização, Internet das Coisas (IoT)
 
 ---
 
