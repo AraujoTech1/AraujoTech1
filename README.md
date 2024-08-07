@@ -1,7 +1,7 @@
 <h1 align="center">Portfólio de Tecnologias em Nuvem e DevSecOps</h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/fotos-gratis/colagem-do-conceito-saas_23-2149399288.jpg?t=st=1723048816~exp=1723052416~hmac=d2ec39da6380edcf9d40b9774d7f89eaff7b5ab1805ddc2cbeea3011c9539120&w=826" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/D4D16AQFsu0MODVAZZg/profile-displaybackgroundimage-shrink_350_1400/0/1719337453058?e=1728518400&v=beta&t=STe-EgcpCt82kHytZ8dJn2bQSQ4SAIi0GfPc4UKvPMw" alt="Banner" />
 </p>
 
 👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira saindo do atendimento ao Cliente para para TI, com foco em **Cloud** e **DevSecOps**.
