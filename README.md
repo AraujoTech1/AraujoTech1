@@ -21,10 +21,10 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 ## Conhecimentos
 
 - **Lógica de Programação:** Fundamentos e conceitos em Python, C++, C#, Java
-- **DevSecOps:** Configuração de pipelines CI/CD, gerenciamento de vulnerabilidades
-- **Computação em Nuvem:** Desenvolvimento e soluções na AWS
-- **Fundamentos de Tecnologia:** Conceitos básicos e avançados em TI
-- **Microsoft Office:** Avançado em Excel, Word e PowerPoint
+- **DevSecOps:** Terraform, Docker, Kubernets, Jenkins, Pipelines
+- **Computação em Nuvem:** AWS (IaaS, PaaS, SaaS)
+- **Fundamentos de Tecnologia:** Conceitos e tecnologias
+- **Microsoft Office:** Word,Excel,PowerPoint,Teams,Access, OneNote, Publisher, OneDrive, Outlook(Comunicação, Organização, Integração)
 
 ---
 
