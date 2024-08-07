@@ -32,7 +32,7 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 
 ### Cloud Computing
 
-- **Desenvolvimento e Implementação:** Soluções e arquiteturas na AWS.
+- **Desenvolvimento e Implementação:** Soluções, migração e arquiteturas na AWS.
 - **Projetos Futuros:** Estou aberta a colaborar em projetos de Cloud Computing. Se você tiver uma ideia ou projeto e deseja trabalhar comigo, entre em contato!
 
 ### DevSecOps
