@@ -30,7 +30,7 @@ Minha paixão por tecnologia é o que guia minha transição de carreira para a 
 ### Cloud Computing
 
 - **Desenvolvimento e Implementação:** Soluções e arquiteturas na AWS.
-- **Projetos Futuros:** Estou aberta a colaborar em projetos de Cloud Computing. Se você tiver uma ideia ou projeto e deseja trabalhar comigo, entre em contato!
+- **Projetos Futuros:** Estou aberta a colaborar em projetos de Cloud Computing.
 
 ---
 
