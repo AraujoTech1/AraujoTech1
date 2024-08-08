@@ -33,12 +33,6 @@ Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento 
 - **Desenvolvimento e Implementação:** Soluções e arquiteturas na AWS.
 - **Projetos Futuros:** Estou aberta a colaborar em projetos de Cloud Computing. Se você tiver uma ideia ou projeto e deseja trabalhar comigo, entre em contato!
 
-### DevSecOps
-
-- **Pipelines CI/CD:** Configuração e integração de práticas de segurança.
-- **Gerenciamento de Vulnerabilidades:** Monitoramento e resposta a falhas.
-- **Projetos Futuros:** Estou aberta a colaborar em projetos inovadores de DevOps, focando em automação de pipelines e otimização de processos. Se você tem uma ideia ou projeto relacionado, entre em contato para explorarmos possibilidades juntos.
-
 ---
 
 ## Tecnologias Usadas
