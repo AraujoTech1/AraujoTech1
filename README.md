@@ -10,9 +10,9 @@
 
 ## Sobre Mim
 
-Minha paixão por tecnologia é o que guia minha transição de carreira para a área de Tecnologia da Informação. Minha jornada começou no atendimento ao cliente. No entanto, foi na tecnologia que me encontrei verdadeiramente.
+Minha paixão por tecnologia é o que guia minha transição de carreira para a área de Tecnologia da Informação, com foco em Cloud Computing e DevSecOps. Minha jornada começou no atendimento ao cliente, mas foi na tecnologia que me encontrei profissionalmente.
 
-Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, um passo fundamental na minha jornada para me tornar uma profissional. Quero aplicar e expandir meus conhecimentos na nuvem e contribuir para projetos e desafios que beneficiem tanto empresas quanto profissionais em desenvolvimento no mercado.
+Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, com especial atenção para soluções em nuvem e práticas de segurança integradas ao desenvolvimento. Estou ansiosa para aplicar e expandir meus conhecimentos em projetos que beneficiem empresas e profissionais, trazendo inovação e segurança ao desenvolvimento de soluções tecnológicas.
 
 ---
 
