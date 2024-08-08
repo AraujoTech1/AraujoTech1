@@ -5,14 +5,9 @@
 </p>
 
 <div align="center">
-  👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira para Tecnologia da Informação, com foco em Cloud.
+  👋 Olá! Sou Fernanda Araujo, uma profissional em transição de carreira para Tecnologia da Informação, com foco em Cloud. Minha jornada começou no atendimento ao cliente, mas foi na area da tecnologia que me encontrei profissionalmente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+
 </div>
-
----
-
-## Sobre Mim
-
-Minha paixão por tecnologia é o que guia minha transição de carreira para a área de TI. Minha jornada começou no atendimento ao cliente, mas foi na area da tecnologia que me encontrei profissionalmente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 ---
 
