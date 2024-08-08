@@ -12,7 +12,7 @@
 
 ## Sobre Mim
 
-Minha paixão por tecnologia é o que guia minha transição de carreira para a área de TI, com foco em Cloud. Minha jornada começou no atendimento ao cliente, mas foi na tecnologia que me encontrei profissionalmente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Minha paixão por tecnologia é o que guia minha transição de carreira para a área de TI. Minha jornada começou no atendimento ao cliente, mas foi na area da tecnologia que me encontrei profissionalmente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 ---
 
