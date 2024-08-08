@@ -1,18 +1,17 @@
-<h1 align="center">Portfólio de Tecnologias em Nuvem e DevSecOps</h1>
+<h1 align="center">Portfólio de Tecnologias em Cloud</h1>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQFsu0MODVAZZg/profile-displaybackgroundimage-shrink_350_1400/0/1719337453058?e=1728518400&v=beta&t=STe-EgcpCt82kHytZ8dJn2bQSQ4SAIi0GfPc4UKvPMw" alt="Banner" />
 </p>
 
-👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira saindo do atendimento ao Cliente para para TI, com foco em **Cloud** e **DevSecOps**.
+<h1 align="center">👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira para Tecnologia da Informação, com foco em **Cloud**.</h1>
 
 ---
 
 ## Sobre Mim
 
-Minha paixão por tecnologia é o que guia minha transição de carreira para a área de Tecnologia da Informação, com foco em Cloud Computing e DevSecOps. Minha jornada começou no atendimento ao cliente, mas foi na tecnologia que me encontrei profissionalmente.
-
-Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, com especial atenção para soluções em nuvem e práticas de segurança integradas ao desenvolvimento. Estou ansiosa para aplicar e expandir meus conhecimentos em projetos que beneficiem empresas e profissionais, trazendo inovação e segurança ao desenvolvimento de soluções tecnológicas.
+Minha paixão por tecnologia é o que guia minha transição de carreira para a área de TI, com foco em Cloud. Minha jornada começou no atendimento ao cliente, mas foi na tecnologia que me encontrei profissionalmente.
+Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, com especial atenção para soluções em nuvem e práticas de segurança integradas ao desenvolvimento. 
 
 ---
 
