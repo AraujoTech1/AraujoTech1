@@ -4,7 +4,7 @@
   <img src="https://media.licdn.com/dms/image/D4D16AQFsu0MODVAZZg/profile-displaybackgroundimage-shrink_350_1400/0/1719337453058?e=1728518400&v=beta&t=STe-EgcpCt82kHytZ8dJn2bQSQ4SAIi0GfPc4UKvPMw" alt="Banner" />
 </p>
 
-<h1 align="center">👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira para Tecnologia da Informação, com foco em **Cloud**.</h1>
+👋 **Olá!** Sou **Fernanda Araujo**, uma profissional em transição de carreira para Tecnologia da Informação, com foco em **Cloud**.
 
 ---
 
