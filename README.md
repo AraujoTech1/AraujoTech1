@@ -1,7 +1,7 @@
 <h1 align="center">Portfólio de Tecnologia em Cloud</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFsu0MODVAZZg/profile-displaybackgroundimage-shrink_350_1400/0/1719337453058?e=1728518400&v=beta&t=STe-EgcpCt82kHytZ8dJn2bQSQ4SAIi0GfPc4UKvPMw" alt="Banner" />
+  <img src="http://ascenty2.skystudio.com.br/wp-content/uploads/2016/08/1473150_Ascenty_OtimizacaodeArtigo_05_VantagensservicosCloud_Mai23capablog-1200x350-c-default.jpg" alt="Banner" />
 </p>
 
 <div align="center">
