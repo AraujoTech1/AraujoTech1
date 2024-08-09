@@ -1,4 +1,4 @@
-<h1 align="center">Portfólio de Tecnologia em Cloud</h1>
+<h1 align="center">Portfólio de Tecnologias em Cloud</h1>
 
 <p align="center">
   <img src="http://ascenty2.skystudio.com.br/wp-content/uploads/2016/08/1473150_Ascenty_OtimizacaodeArtigo_05_VantagensservicosCloud_Mai23capablog-1200x350-c-default.jpg" alt="Banner" />
