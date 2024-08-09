@@ -45,4 +45,4 @@
 
 ---
 
-Se precisar de mais informações ou tiver interesse em colaborar em projetos futuros, entre em contato!
+Se precisar de mais informações ou tiver interesse em colaborar em projeto futuro, entra em contato!
