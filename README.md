@@ -34,6 +34,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23008080.svg?style=for-the-badge&logo=ai&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-%230082C3.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![5G](https://img.shields.io/badge/5G-%230082C3.svg?style=for-the-badge&logo=5g&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-%23323330.svg?style=for-the-badge&logo=devops&logoColor=%23F7DF1E)
 
 
 
