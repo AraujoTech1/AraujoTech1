@@ -1,5 +1,5 @@
 ##  Olá, meu nome é Fernanda, sou apaixonada por tecnologia e Desenvolvimento de Sistemas!
- 🎓 Curso Analise e Desenvolvimento de Sistemas, com foco em Cloud Computing, DevSecOps e Artificial Intelligence.
+ 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me especializando na área da tecnologia em nuvem.
 
 ## Tecnologias
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
