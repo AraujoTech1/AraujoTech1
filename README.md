@@ -1,6 +1,6 @@
 #  Olá, Mundo! 
 
-- 🎓 cursando Análise e Desenvolvimento de Sistemas, com especialização em Cloud AWS e AI
+- 🎓 cursando Análise e Desenvolvimento de Sistemas, com especialização em Nuvem AWS e IA
 - 📍 SP - Brasil
 
 ### Tecnologias
@@ -13,7 +13,6 @@
 ![Java](https://img.shields.io/badge/-Java-000033?style=for-the-badge&logo=java&logoColor=ADD8E6)
 ![C++](https://img.shields.io/badge/-C++-000033?style=for-the-badge&logo=cplusplus&logoColor=ADD8E6)
 ![C#](https://img.shields.io/badge/-C%23-000033?style=for-the-badge&logo=csharp&logoColor=ADD8E6)
-
 
 ---
 ### Rede de Contatos
