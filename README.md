@@ -1,6 +1,6 @@
 #  Olá, Mundo! 
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas, com especialização em Nuvem AWS e IA
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas, com especialização em Nuvem e IA
 - 📍 SP - Brasil
 
 ### Tecnologias
