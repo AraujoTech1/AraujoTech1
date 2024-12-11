@@ -1,4 +1,4 @@
-# Olá, Mundo!
+#  Hello, World!
 
 - 👩‍💻 Entusiasta de tecnologia e computação... 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas, com foco em Nuvem e IA
