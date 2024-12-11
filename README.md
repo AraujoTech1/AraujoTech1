@@ -13,7 +13,3 @@
 ![HTML](https://img.shields.io/badge/-HTML-000033?style=for-the-badge&logo=html5&logoColor=ADD8E6)
 ![CSS](https://img.shields.io/badge/-CSS-000033?style=for-the-badge&logo=css3&logoColor=ADD8E6)
 
----
-### Rede de Contatos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000033?style=for-the-badge&logo=linkedin&logoColor=ADD8E6)](https://www.linkedin.com/in/fernandaaraujo1/)
