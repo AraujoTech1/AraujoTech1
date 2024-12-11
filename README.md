@@ -1,6 +1,6 @@
 #  Olá, Mundo!
 
-- 👩‍💻 Meu nome é Fernanda, sou apaixonada por tecnologia!
+- 👩‍💻 Entusiasta de tecnologia e computação... 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas, com foco em Nuvem e IA
 - 📍 SP - Brasil
 
