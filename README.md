@@ -14,4 +14,5 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Artificial Intelligence](https://img.shields.io/badge/-AI-00C4B3?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Artificial Intelligence](https://img.shields.io/badge/-AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=00C4B3)
+
