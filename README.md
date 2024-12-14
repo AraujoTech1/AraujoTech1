@@ -15,4 +15,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Artificial Intelligence](https://img.shields.io/badge/-AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=00C4B3)
-
+![IoT](https://img.shields.io/badge/-IoT-00A1E4?style=for-the-badge&logo=internet-of-things&logoColor=FFFFFF)
