@@ -2,6 +2,7 @@
 
 - 👩‍💻 Entusiasta de tecnologia e computação... 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas, com foco em Nuvem e IA
+- 🛡️ Explorando tecnologias como CI/CD, SAST, DAST e SCA
 - 📍 SP - Brasil
 
 ### Tecnologias
