@@ -7,11 +7,11 @@
 
 ### Principais Tecnologias
 
-![Python](https://img.shields.io/badge/-Python-000033?style=for-the-badge&logo=python&logoColor=ADD8E6)
-![Java](https://img.shields.io/badge/-Java-000033?style=for-the-badge&logo=java&logoColor=ADD8E6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000033?style=for-the-badge&logo=javascript&logoColor=ADD8E6)
-![Node.js](https://img.shields.io/badge/-Node.js-000033?style=for-the-badge&logo=node.js&logoColor=ADD8E6)
-![HTML](https://img.shields.io/badge/-HTML-000033?style=for-the-badge&logo=html5&logoColor=ADD8E6)
-![CSS](https://img.shields.io/badge/-CSS-000033?style=for-the-badge&logo=css3&logoColor=ADD8E6)
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Artificial Intelligence](https://img.shields.io/badge/-AI-000033?style=for-the-badge&logo=python&logoColor=00C4B3)
+![Artificial Intelligence](https://img.shields.io/badge/-AI-00C4B3?style=for-the-badge&logo=python&logoColor=FFFFFF)
