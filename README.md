@@ -1,7 +1,8 @@
-# Hello, World!
+
+## Hello, World Dev's! 
 
 - 👩‍💻 Entusiasta de tecnologia e computação... 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas, com foco em Nuvem e Inteligencia Artificial
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🛠️ Explorando ferramentas como CI/CD, SAST, DAST e SCA
 - 📍 SP - Brasil
 
