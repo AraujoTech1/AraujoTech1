@@ -1,5 +1,5 @@
 
-## Hello, World Dev's! 
+## Hello, World! 
 
 - 👩‍💻 Entusiasta de tecnologia e computação... 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
