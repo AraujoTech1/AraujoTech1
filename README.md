@@ -1,4 +1,4 @@
-<h2 align="center" style="background: linear-gradient(to right, #003366, #ff007f); -webkit-background-clip: text; color: transparent;">Hello, World! 🖥️</h2>
+# Hello, World! 🖥️
 
 
 
