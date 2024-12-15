@@ -1,7 +1,6 @@
-<p align="center" style="font-size: 2em; font-weight: bold; background: linear-gradient(to right, #003366, #ff007f); -webkit-background-clip: text; color: transparent; margin-bottom: 0;">
-  Hello, World! 🖥️
+<p align="center">
+  <img src="URL_DA_IMAGEM_GRADIENTE" alt="Hello, World! 🖥️">
 </p>
-<p align="center" style="border: 0; height: 2px; background: linear-gradient(to right, #003366, #ff007f); width: 80%; margin: 5px auto;"></p>
 
 
 - 👩‍💻 Entusiasta de tecnologia e computação...
