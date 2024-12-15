@@ -45,7 +45,7 @@
 </div>
 
 
-## Contato
+## Rede de Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
 [![Gmail](https://img.shields.io/badge/Gmail-001F3D?style=flat&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
