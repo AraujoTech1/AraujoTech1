@@ -4,8 +4,6 @@
 
 - 👩‍💻 Entusiasta de tecnologia e computação...
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas 
-- 🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA
-- 🖱️ Buscando aplicar meus conhecimentos em segurança da informação, desenvolvimento full-stack e inteligência artificial (IA) em projetos de DevSecOps, além de trabalhar no desenvolvimento de soluções de IA.
 - 📍 São Paulo - Brasil
 
 ## Linguagens
