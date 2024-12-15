@@ -6,7 +6,7 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas 
 - 🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA
 - 💡 Atualmente estudando DevSecOps, segurança em ambientes de nuvem e IA/Machine Learning  
-- 🖱️ Buscando aplicar meus conhecimentos em segurança, desenvolvimento full-stack e IA em projetos de DevSecOps e desenvolvimento de IA  
+- 🖱️ Buscando aplicar meus conhecimentos em segurança, desenvolvimento full-stack e IA em projetos de DevSecOps 
 - 📍 São Paulo - Brasil
 
 ## Linguagens
