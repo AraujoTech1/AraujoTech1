@@ -2,8 +2,6 @@
 
 <h2 align="center">Hello World!</h2>
 
-
-
 ## Sobre Mim
 
 - 👋 Olá, eu sou Fernanda Araujo!
@@ -12,7 +10,7 @@
 - 📍 Cubatão, São Paulo - Brasil
 
 ## 
-Linguagens
+## Linguagens
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
