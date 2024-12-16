@@ -4,7 +4,7 @@
 
 - 👋 Olá, eu sou Fernanda Araujo!
 - 👩‍💻 Entusiasta de tecnologia e computação...
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas e me especializo em ferramentas e práticas de segurança em ambientes Cloud AWS.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estacio
 - 📍 Cubatão, São Paulo - Brasil
 
 ## 
