@@ -28,7 +28,7 @@
 - **[Previsão de Desastres com IoT](https://github.com/AraujoTech1/Projeto-IoT-Previsao-Desastres)**: Sistema que usa tecnologia IoT para monitorar e prever desastres naturais, como enchentes e terremotos.
 - **[GitLab CI/CD - Docker & Kubernetes](https://github.com/AraujoTech1/GitLabCICD-Docker-Kubernetes)**: Pipeline de deploy de uma aplicação Node.js utilizando Docker e Kubernetes.
 - **[Quiz Interativo de TI](https://github.com/AraujoTech1/quiz-interativo-ti)**: Quiz para testar e aprimorar conhecimentos em TI, com feedback sobre as respostas.
-- **[AWS Rekognition - Detectando Celebridades](https://github.com/AraujoTech1/aws-rekognition-detectando-celebridades)**: Projeto que usa AWS Rekognition para detectar celebridades em imagens.
+- **[AWS Rekognition - Detectando Celebridades](https://github.com/AraujoTech1/aws-rekognition-detectando-celebridades)**: Projeto que usa AWS Rekognition para detectar celebridades atraves de imagens.
 
 
 ## Rede de Contatos
