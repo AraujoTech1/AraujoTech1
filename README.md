@@ -27,6 +27,7 @@
   <img width="12" />
 </div>
 
+##
 ## Projetos 
 
 - **[Previsão de Desastres com IoT](https://github.com/AraujoTech1/Projeto-IoT-Previsao-Desastres)**: Sistema que usa tecnologia IoT para monitorar e prever desastres naturais, como enchentes e terremotos.
@@ -34,7 +35,7 @@
 - **[Quiz Interativo de TI](https://github.com/AraujoTech1/quiz-interativo-ti)**: Quiz para testar e aprimorar conhecimentos em TI, com feedback sobre as respostas.
 - **[AWS Rekognition - Detectando Celebridades](https://github.com/AraujoTech1/aws-rekognition-detectando-celebridades)**: Projeto que usa AWS Rekognition para detectar celebridades atraves de imagens.
 
-
+##
 ## Rede de Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
