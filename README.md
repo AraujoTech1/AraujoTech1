@@ -1,10 +1,13 @@
-# Hello, World! 🖥️
+###
 
+<h2 align="center">Hello World! 🖥!</h2>
 
+## Sobre Mim
 
+- 👋 Olá, eu sou Fernanda Araujo!
 - 👩‍💻 Entusiasta de tecnologia e computação...
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas 
-- 📍 São Paulo - Brasil
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas e me especializo em ferramentas e práticas de segurança em ambientes Cloud AWS.
+- 📍 Cubatão, São Paulo - Brasil
 
 ## Linguagens
 
