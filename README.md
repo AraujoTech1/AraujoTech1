@@ -11,7 +11,8 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas e me especializo em ferramentas e práticas de segurança em ambientes Cloud AWS.
 - 📍 Cubatão, São Paulo - Brasil
 
-## Linguagens
+## 
+Linguagens
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
