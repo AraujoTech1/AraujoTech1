@@ -38,6 +38,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
 [![Gmail](https://img.shields.io/badge/Gmail-001F3D?style=flat&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-001F3D?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/AraujoTech1)
-
 
