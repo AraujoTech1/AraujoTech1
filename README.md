@@ -9,10 +9,6 @@
 - 🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA, IA Generativa, ML, DL e Iot em ambiente de cloud AWS
 - 📍 Cubatão, São Paulo - Brasil
 
-<p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" width="600" />
-</p>
-
 ## 🔹 Linguagens
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -53,6 +49,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
+
+<p align="center">
+  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" width="600" />
+</p>
 
 ## 🔹 Projetos 
 
