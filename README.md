@@ -34,17 +34,12 @@
 
 ##
 ## Tecnologias
-
-[![AWS](https://img.shields.io/badge/AWS-8A2BE2?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=iot&logoColor=white)](https://www.iotforall.com/)
-[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-8A2BE2?style=flat&logo=artificial-intelligence&logoColor=white)](https://azure.microsoft.com/en-us/overview/ai-platform/)
+[![AWS](https://img.shields.io/badge/AWS-8A2BE2?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) <img src="https://img.shields.io/badge/AWS-8A2BE2?style=flat&logo=amazon-aws&logoColor=white" width="200"> [![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=iot&logoColor=white)](https://www.iotforall.com/) <img src="https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=iot&logoColor=white" width="200"> [![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-8A2BE2?style=flat&logo=artificial-intelligence&logoColor=white)](https://azure.microsoft.com/en-us/overview/ai-platform/) <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-8A2BE2?style=flat&logo=artificial-intelligence&logoColor=white" width="200">
 
 ##
 ## S.O & Ferramentas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
   <img width="12" />
