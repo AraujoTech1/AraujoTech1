@@ -10,8 +10,9 @@
 - 📍 Cubatão, São Paulo - Brasil
 
 <p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" />
+  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" width="800" />
 </p>
+
 
 
 ## 
