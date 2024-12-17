@@ -1,6 +1,6 @@
 <h2 align="center">Hello World!</h2>
 
-## Sobre Mim
+## 🔹 Sobre Mim
 
 - 👋 Olá, eu sou Fernanda Araujo!
 - 👩🏻‍💻 Entusiasta de tecnologia e desenvolvimento de sistemas...
@@ -16,7 +16,7 @@
 
 
 ## 
-## Linguagens
+## 🔹 Linguagens
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -33,14 +33,14 @@
 </div>
 
 ##
-## Tecnologias
+## 🔹 Tecnologias
 
 [![AWS](https://img.shields.io/badge/AWS-8A2BE2?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=iot&logoColor=white)](https://www.iotforall.com/)
 [![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-8A2BE2?style=flat&logo=artificial-intelligence&logoColor=white)](https://azure.microsoft.com/en-us/overview/ai-platform/)
 
 ##
-## S.O & Ferramentas
+## 🔹 S.O & Ferramentas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -62,7 +62,7 @@
 ###
 
 ##
-## Projetos 
+## 🔹 Projetos 
 
 - **[Previsão de Desastres com IoT](https://github.com/AraujoTech1/Projeto-IoT-Previsao-Desastres)**: Sistema que usa tecnologia IoT para monitorar e prever desastres naturais, como enchentes e terremotos.
 - **[GitLab CI/CD - Docker & Kubernetes](https://github.com/AraujoTech1/GitLabCICD-Docker-Kubernetes)**: Pipeline de deploy de uma aplicação Node.js utilizando Docker e Kubernetes.
@@ -70,7 +70,7 @@
 - **[AWS Rekognition - Detectando Celebridades](https://github.com/AraujoTech1/aws-rekognition-detectando-celebridades)**: Projeto que usa AWS Rekognition para detectar celebridades atraves de imagens.
 
 ##
-## Rede de Contatos
+## 🔹 Rede de Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
 [![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=flat&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
