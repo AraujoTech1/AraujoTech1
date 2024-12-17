@@ -6,7 +6,7 @@
 - 👩🏻‍💻 Entusiasta de tecnologia e desenvolvimento de sistemas...
 - 🖱️ Buscando aplicar e aprimorar meus conhecimentos em sistemas de segurança, sistemas de inteligencia artificial, em projetos de DevSecOps e desenvolvimento full-stack.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estacio
-- 🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA, ML, DL em ambiente de cloud AWS
+- 🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA, IA Generativa, ML, DL e Iot em ambiente de cloud AWS
 - 📍 Cubatão, São Paulo - Brasil
 
 <p align="center">
