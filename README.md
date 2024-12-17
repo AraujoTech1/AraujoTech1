@@ -4,7 +4,7 @@
 
 - 👋 Olá, eu sou Fernanda Araujo!
 - 👩🏻‍💻 Entusiasta de tecnologia e desenvolvimento de sistemas...
-- 🖱️ Buscando aplicar e aprimorar meus conhecimentos em segurança, desenvolvimento full-stack e IA em projetos de DevSecOps e desenvolvimento de IA. Pretendo expandir o conhecimento na area de desenvolvimento com tecnologias de segurança, cloud e IA. 
+- 🖱️ Buscando aplicar e aprimorar meus conhecimentos em segurança, desenvolvimento full-stack e IA em projetos de DevSecOps e desenvolvimento de IA. Pretendo expandir meus conhecimentos na area de desenvolvimento com as tecnologias de segurança, cloud e IA. 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estacio
 - 🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA e IA em ambiente de cloud AWS
 - 📍 Cubatão, São Paulo - Brasil
