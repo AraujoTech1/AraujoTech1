@@ -33,7 +33,7 @@
 ## Tecnologias
 
 [![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=cloud&logoColor=black)](https://aws.amazon.com/pt/what-is-aws/)
-[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=wifi&logoColor=black)](https://www.sap.com/brazil/products/artificial-intelligence/what-is-iot.html#:~:text=O%20que%20%C3%A9%20IoT%20(Internet,%C3%A9%20sin%C3%B4nimo%20da%20Ind%C3%BAstria%204.0.)
+[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=wifi&logoColor=black)](https://www.google.com/search?q=IOT&sca_esv=32e55b09f5ce6c02&sxsrf=ADLYWILI1bvxiiIqS47t7L_zeTtwvNYvvg%3A1734460700077&ei=HMVhZ4y2BJ3a5OUP4NjxGA&ved=0ahUKEwiMtJ7Pua-KAxUdLbkGHWBsHAMQ4dUDCBA&uact=5&oq=IOT&gs_lp=Egxnd3Mtd2l6LXNlcnAiA0lPVDIKECMYgAQYJxiKBTIKEAAYgAQYQxiKBTINEC4YgAQYsQMYgwEYCjIQEC4YgAQYFBiHAhjHARivATIFEAAYgAQyBRAAGIAEMgoQABiABBhDGIoFMgsQLhiABBjHARivATIFEAAYgAQyChAAGIAEGEMYigVIkA9Q2wlYsgxwAXgBkAEAmAGMAaABhAOqAQMwLjO4AQPIAQD4AQGYAgSgApkDwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAhAQABiABBixAxhDGIMBGIoFwgIIEC4YgAQYsQPCAggQABiABBixA8ICCxAAGIAEGLEDGIMBmAMAiAYBkAYKkgcDMS4zoAfQIw&sclient=gws-wiz-serp)
 [![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=black)](https://www.google.com/search?q=intelig%C3%AAncia+artificial&oq=I+&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQgyOTMxajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8)
 
 
