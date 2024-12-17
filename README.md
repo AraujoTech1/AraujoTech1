@@ -1,4 +1,4 @@
-<h2 align="center"> Hello World! </h2>
+<h2 align="center">Hello World!</h2>
 
 ## Sobre Mim
 
@@ -9,9 +9,13 @@
 - 🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA e IA em ambiente de cloud AWS
 - 📍 Cubatão, São Paulo - Brasil
 
+<p align="center">
+  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" />
+</p>
+
+
 ## 
 ## Linguagens
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -28,6 +32,37 @@
 </div>
 
 ##
+## Tecnologias
+
+[![AWS](https://img.shields.io/badge/AWS-8A2BE2?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=iot&logoColor=white)](https://www.iotforall.com/)
+[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-8A2BE2?style=flat&logo=artificial-intelligence&logoColor=white)](https://azure.microsoft.com/en-us/overview/ai-platform/)
+
+##
+## S.O & Ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
+
+###
+
+##
 ## Projetos 
 
 - **[Previsão de Desastres com IoT](https://github.com/AraujoTech1/Projeto-IoT-Previsao-Desastres)**: Sistema que usa tecnologia IoT para monitorar e prever desastres naturais, como enchentes e terremotos.
@@ -38,6 +73,7 @@
 ##
 ## Rede de Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
-[![Gmail](https://img.shields.io/badge/Gmail-001F3D?style=flat&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
+[![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=flat&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/AraujoTech1)
 
