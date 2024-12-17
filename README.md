@@ -65,8 +65,7 @@
 
 ## Rede de Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
-[![Gmail](https://img.shields.io/badge/Gmail-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-DDA0DD?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AraujoTech1)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BA55D3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
+[![Gmail](https://img.shields.io/badge/Gmail-BA55D3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-BA55D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AraujoTech1)
 
