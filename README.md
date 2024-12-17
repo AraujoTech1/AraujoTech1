@@ -33,8 +33,8 @@
 ## Tecnologias
 
 [![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=cloud&logoColor=black)](https://aws.amazon.com/)
-[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=wifi&logoColor=black)](https://www.iotforall.com/)
-[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=black)](https://azure.microsoft.com/en-us/overview/ai-platform/)
+[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=wifi&logoColor=black)](https://www.google.com/search?q=Iot&oq=Iot&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIMCAEQABhDGIAEGIoFMg8IAhAuGAoYgwEYsQMYgAQyDAgDEAAYQxiABBiKBTIHCAQQABiABDINCAUQLhivARjHARiABDIMCAYQABhDGIAEGIoFMgYIBxAFGEDSAQc3MDhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8)
+[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=black)](https://www.google.com/search?q=intelig%C3%AAncia+artificial&oq=inteligencia+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIKCAIQABixAxiABDIKCAMQLhjUAhiABDIHCAQQABiABDINCAUQABiDARixAxiABDIHCAYQABiABDIGCAcQRRhB0gEIMzU5MmowajSoAgCwAgE&sourceid=chrome&ie=UTF-8)
 
 
 ## S.O & Ferramentas
