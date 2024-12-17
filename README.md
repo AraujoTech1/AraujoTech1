@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 - 👋 Olá, eu sou Fernanda Araujo!
-- 👩‍💻 Entusiasta de tecnologia e computação...
+- 👩🏻‍💻 Entusiasta de tecnologia e computação...
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estacio
 - 📍 Cubatão, São Paulo - Brasil
 
