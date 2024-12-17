@@ -13,9 +13,6 @@
   <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" width="800" />
 </p>
 
-
-
-## 
 ## 🔹 Linguagens
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -32,14 +29,12 @@
   <img width="12" />
 </div>
 
-##
 ## 🔹 Tecnologias
 
 [![AWS](https://img.shields.io/badge/AWS-8A2BE2?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=iot&logoColor=white)](https://www.iotforall.com/)
 [![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-8A2BE2?style=flat&logo=artificial-intelligence&logoColor=white)](https://azure.microsoft.com/en-us/overview/ai-platform/)
 
-##
 ## 🔹 S.O & Ferramentas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -59,9 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
 
-###
-
-##
 ## 🔹 Projetos 
 
 - **[Previsão de Desastres com IoT](https://github.com/AraujoTech1/Projeto-IoT-Previsao-Desastres)**: Sistema que usa tecnologia IoT para monitorar e prever desastres naturais, como enchentes e terremotos.
@@ -69,7 +61,6 @@
 - **[Quiz Interativo de TI](https://github.com/AraujoTech1/quiz-interativo-ti)**: Quiz para testar e aprimorar conhecimentos em TI, com feedback sobre as respostas.
 - **[AWS Rekognition - Detectando Celebridades](https://github.com/AraujoTech1/aws-rekognition-detectando-celebridades)**: Projeto que usa AWS Rekognition para detectar celebridades atraves de imagens.
 
-##
 ## 🔹 Rede de Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1)
