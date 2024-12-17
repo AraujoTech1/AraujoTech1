@@ -5,6 +5,7 @@
 - 👋 Olá, eu sou Fernanda Araujo!
 - 👩🏻‍💻 Entusiasta de tecnologia e computação...
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estacio
+- 🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA em ambiente de nuvem 
 - 📍 Cubatão, São Paulo - Brasil
 
 ## 
