@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 <div>
-  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Minha Foto" width="300" align="right" style="margin-left: 20px;" />
+  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="img" width="300" align="right" style="margin-left: 20px;" />
   <ul>
     <li>👋 Olá, eu sou Fernanda Araujo!</li>
     <li>👩🏻‍💻 Entusiasta de tecnologia e desenvolvimento de sistemas...</li>
