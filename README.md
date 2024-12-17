@@ -32,9 +32,9 @@
 
 ## Tecnologias
 
-[![AWS](https://img.shields.io/badge/AWS-8A2BE2?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=iot&logoColor=white)](https://www.iotforall.com/)
-[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-8A2BE2?style=flat&logo=artificial-intelligence&logoColor=white)](https://azure.microsoft.com/en-us/overview/ai-platform/)
+[![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=amazon-aws&logoColor=black)](https://aws.amazon.com/)
+[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=thingsboard&logoColor=black)](https://www.iotforall.com/)
+[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=openai&logoColor=black)](https://azure.microsoft.com/en-us/overview/ai-platform/)
 
 ## S.O & Ferramentas
 <div align="left">
