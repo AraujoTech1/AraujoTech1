@@ -6,7 +6,7 @@
   <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Minha Foto" width="400" align="right" style="margin-left: 20px;" />
   <ul>
     <li>👋 Olá, eu sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻 Entusiasta de tecnologia e desenvolvimento de sistemas...</li>
+    <li>👩🏻‍💻 Entusiasta de tecnologia e desenvolvimento de software...</li>
     <li>🖱️ Busco aplicar e aprimorar meus conhecimentos em Cloud, Sistemas de Segurança, Inteligência Artificial, em projetos de DevSecOps & full-stack.</li>
     <li>🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio.</li>
     <li>🛠️ Explorando ferramentas como CI/CD, SAST, DAST, SCA, IA Generativa, ML, DL e IoT em ambiente de cloud AWS.</li>
