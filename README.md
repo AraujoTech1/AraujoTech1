@@ -67,5 +67,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9370DB)](https://www.linkedin.com/in/fernandaaraujo1)
 [![Gmail](https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9370DB)](mailto:xfernandaaraujo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9370DB)](https://www.instagram.com/AraujoTech1)
+[![GitLab](https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=9370DB)](https://gitlab.com/xfernandaaraujo)
 
 
