@@ -62,7 +62,7 @@
 - **[Quiz Interativo de TI](https://github.com/AraujoTech1/quiz-interativo-ti)**: Quiz para testar e aprimorar conhecimentos em TI, com feedback sobre as respostas.
 - **[AWS Rekognition - Detectando Celebridades](https://github.com/AraujoTech1/aws-rekognition-detectando-celebridades)**: Projeto que usa AWS Rekognition para detectar celebridades atraves de imagens.
 
-## Rede de Contatos
+## Redes de Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9370DB)](https://www.linkedin.com/in/fernandaaraujo1)
 [![Gmail](https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9370DB)](mailto:xfernandaaraujo@gmail.com)
