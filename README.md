@@ -10,7 +10,7 @@
     <li>🖱️ Busco aplicar e aprimorar meus conhecimentos em Cloud, Sistemas de Segurança e Inteligência Artificial, em projetos de DevSecOps e Full-Stack.</li>
     <li>🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio.</li>
     <li>🛠️ Explorando ferramentas como: CI/CD, SAST, DAST, SCA, IA Generativa, ML, DL, reconhecimento facial e IoT em ambiente de Cloud AWS.</li>
-    <li>📍 Cubatão, São Paulo - Brasil.</li>
+    <li>📍 São Paulo - Brasil.</li>
   </ul>
 </div>
 
