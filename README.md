@@ -32,8 +32,9 @@
 
 ## Tecnologias
 
-[![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=cloud&logoColor=black)](https://aws.amazon.com/pt/what-is-aws/)
-[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=black)](https://www.google.com/search?q=intelig%C3%AAncia+artificial&oq=I+&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQgyOTMxajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8)
+[![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=cloud&logoColor=black)](https://aws.amazon.com/pt/what-is-aws/)  
+[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=black)](https://www.google.com/search?q=intelig%C3%AAncia+artificial&oq=I+&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQgyOTMxajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8)  
+[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=internet-of-things&logoColor=black)](https://www.google.com/search?q=Internet+das+Coisas)
 
 
 ## S.O & Ferramentas
