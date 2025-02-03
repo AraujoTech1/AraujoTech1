@@ -32,9 +32,9 @@
 
 ## Tecnologias
 
-[![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=amazonaws&logoColor=black)](https://aws.amazon.com/pt/what-is-aws/) 
-[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=black)](https://www.google.com/search?q=intelig%C3%AAncia+artificial) 
-[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=internet-of-things&logoColor=black)](https://www.google.com/search?q=Internet+das+Coisas)
+[![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=flat&logo=amazonaws&logoColor=black)](https://aws.amazon.com/pt/what-is-aws/) 
+[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=flat&logo=brain&logoColor=black)](https://www.google.com/search?q=intelig%C3%AAncia+artificial) 
+[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=flat&logo=internet-of-things&logoColor=black)](https://www.google.com/search?q=Internet+das+Coisas)
 
 
 ## S.O & Ferramentas
