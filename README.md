@@ -32,10 +32,10 @@
 
 ## Tecnologias
 
-[![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FFC0CB)](https://aws.amazon.com/pt/what-is-aws/) 
-[![Azure](https://img.shields.io/badge/Azure-FFC0CB?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=FFC0CB)](https://azure.microsoft.com/pt-br/) 
-[![GCP](https://img.shields.io/badge/GCP-FFC0CB?style=for-the-badge&logo=google&logoColor=white&labelColor=FFC0CB)](https://cloud.google.com/) 
-[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=white&labelColor=FFC0CB)](https://www.google.com/search?q=intelig%C3%AAncia+artificial) 
+[![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FFC0CB)](https://aws.amazon.com/pt/what-is-aws/)  
+[![Azure](https://img.shields.io/badge/Azure-FFC0CB?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=FFC0CB)](https://azure.microsoft.com/pt-br/)  
+[![GCP](https://img.shields.io/badge/GCP-FFC0CB?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=FFC0CB)](https://cloud.google.com/)  
+[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=white&labelColor=FFC0CB)](https://www.google.com/search?q=intelig%C3%AAncia+artificial)  
 [![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=internet-of-things&logoColor=white&labelColor=FFC0CB)](https://www.google.com/search?q=Internet+das+Coisas)
 
 
