@@ -30,12 +30,15 @@
   <img width="12" />
 </div>
 
-# Tecnologias
+## Tecnologias de IA
 
-[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=white)](https://www.google.com/search?q=intelig%C3%AAncia+artificial) 
-[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=internet-of-things&logoColor=white)](https://www.google.com/search?q=Internet+das+Coisas)
+[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Internet+das+Coisas)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Machine+Learning)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Deep+Learning)
+[![Reconhecimento Facial](https://img.shields.io/badge/Reconhecimento%20Facial-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Reconhecimento+Facial)
+[![IA Generativa](https://img.shields.io/badge/IA%20Generativa-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=IA+Generativa)
 
-## Cloud
+## Tecnologias de Cloud
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
