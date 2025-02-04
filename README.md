@@ -30,13 +30,20 @@
   <img width="12" />
 </div>
 
-## Tecnologias
+# Tecnologias
 
-[![AWS](https://img.shields.io/badge/AWS-FFC0CB?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FFC0CB)](https://aws.amazon.com/pt/what-is-aws/)  
-[![Azure](https://img.shields.io/badge/Azure-FFC0CB?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=FFC0CB)](https://azure.microsoft.com/pt-br/)  
-[![GCP](https://img.shields.io/badge/GCP-FFC0CB?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=FFC0CB)](https://cloud.google.com/)  
-[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=white&labelColor=FFC0CB)](https://www.google.com/search?q=intelig%C3%AAncia+artificial)  
-[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=internet-of-things&logoColor=white&labelColor=FFC0CB)](https://www.google.com/search?q=Internet+das+Coisas)
+[![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FFC0CB?style=for-the-badge&logo=brain&logoColor=white)](https://www.google.com/search?q=intelig%C3%AAncia+artificial) 
+[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logo=internet-of-things&logoColor=white)](https://www.google.com/search?q=Internet+das+Coisas)
+
+## Cloud
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+</div>
 
 
 ## S.O & Ferramentas
