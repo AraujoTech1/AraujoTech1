@@ -7,7 +7,7 @@
   <ul>
     <li>👋 Olá, eu sou Fernanda Araujo!</li>
     <li>👩🏻‍💻 Entusiasta de tecnologia e desenvolvimento de software...</li>
-    <li>🖱️ Busco aplicar e aprimorar meus conhecimentos em Cloud e Inteligência Artificial, em projetos Full-Stack.</li>
+    <li>🖱️ Busco aplicar e aprimorar meus conhecimentos em Cloud e Inteligência Artificial, em projetos Full-Stack e DevOps.</li>
     <li>🎓 Atualmente cursando Análise e desenvolvimento de sistemas na Estácio.</li>
     <li>🛠️ Explorando ferramentas como: CI/CD, IA Generativa, ML, DL, reconhecimento facial e IoT em ambiente de Cloud.</li>
     <li>📍 São Paulo - Brasil.</li>
