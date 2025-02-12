@@ -71,7 +71,7 @@
 - **[Validador de Bandeira de Cartão de Crédito](https://github.com/AraujoTech1/validadorcartao)**: Este projeto tem como objetivo desenvolver uma função de validação de bandeiras de cartões de crédito com base no número do cartão fornecido pelo usuário.
 - **[Calculadora de Partidas Rankeadas](https://github.com/AraujoTech1/calculadora-partidas)**: Esse projeto  calcula o saldo de vitórias e derrotas de um jogador em partidas ranqueadas, classificando-o em diferentes níveis.
 
-## `>_ 💬 Como me encontrar`
+## `>_ Como me encontrar`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9370DB)](https://www.linkedin.com/in/fernandaaraujo1)
 [![Gmail](https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9370DB)](mailto:xfernandaaraujo@gmail.com)
