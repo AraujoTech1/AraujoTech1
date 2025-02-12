@@ -1,7 +1,6 @@
-<h1 align="center">Hello World!</h1>
+<h1 align="center">Hello, World!</h1>
 
-## Sobre Mim
-
+##  `>_ Sobre Mim` 
 <div>
   <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Minha Foto" width="400" align="right" style="margin-left: 20px;" />
   <ul>
@@ -14,7 +13,7 @@
   </ul>
 </div>
 
-## Linguagens
+##  `>_ Linguagens`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -28,16 +27,14 @@
   <img width="12" />
 </div>
 
-## Tecnologias de IA
-
+## `>_ Tecnologias de IA`
 [![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Internet+das+Coisas)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Machine+Learning)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Deep+Learning)
 [![Reconhecimento Facial](https://img.shields.io/badge/Reconhecimento%20Facial-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Reconhecimento+Facial)
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=IA+Generativa)
 
-## Tecnologias de Cloud
-
+## `>_ Tecnologias de Cloud`
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -46,8 +43,7 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
 </div>
 
-
-## S.O & Ferramentas
+## `>_ S.O & Ferramentas`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -66,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-## Projetos 
+## `>_ Projetos`
 
 - **[Previsão de Desastres com IoT](https://github.com/AraujoTech1/Projeto-IoT-Previsao-Desastres)**: Sistema que usa tecnologia IoT para monitorar e prever desastres naturais, como enchentes e terremotos.
 - **[Quiz Interativo de TI](https://github.com/AraujoTech1/quiz-interativo-ti)**: Quiz para testar e aprimorar conhecimentos em TI, com feedback sobre as respostas.
@@ -75,7 +71,7 @@
 - **[Validador de Bandeira de Cartão de Crédito](https://github.com/AraujoTech1/validadorcartao)**: Este projeto tem como objetivo desenvolver uma função de validação de bandeiras de cartões de crédito com base no número do cartão fornecido pelo usuário.
 - **[Calculadora de Partidas Rankeadas](https://github.com/AraujoTech1/calculadora-partidas)**: Esse projeto  calcula o saldo de vitórias e derrotas de um jogador em partidas ranqueadas, classificando-o em diferentes níveis.
 
-## 💬 Como me encontrar
+## `>_ 💬 Como me encontrar`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9370DB)](https://www.linkedin.com/in/fernandaaraujo1)
 [![Gmail](https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9370DB)](mailto:xfernandaaraujo@gmail.com)
@@ -83,12 +79,12 @@
 [![GitLab](https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=9370DB)](https://gitlab.com/xfernandaaraujo)
 
 
-## GitHub Stats
+## `>_ GitHub Stats`
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AraujoTech1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoTech1&layout=compact&theme=radical)
 
-## Roadmap de Aprendizado
+## `>_ Roadmap de Aprendizado`
 
 ### 🔥 No momento, estou estudando:
 - ☁️| Cloud Computing (AWS, Azure, GCP)
