@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!</h1>
 
-##  `>_ Sobre Mim` 
+##  `>_ Sobre mim` 
 <div>
   <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Minha Foto" width="400" align="right" style="margin-left: 20px;" />
   <ul>
@@ -34,7 +34,7 @@
 [![Reconhecimento Facial](https://img.shields.io/badge/Reconhecimento%20Facial-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Reconhecimento+Facial)
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=IA+Generativa)
 
-## `>_ Tecnologias de Cloud`
+## `>_ Tecnologias de cloud`
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
 </div>
 
-## `>_ S.O & Ferramentas`
+## `>_ S.O & ferramentas`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -79,12 +79,12 @@
 [![GitLab](https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=9370DB)](https://gitlab.com/xfernandaaraujo)
 
 
-## `>_ GitHub Stats`
+## `>_ GitHub stats`
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AraujoTech1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoTech1&layout=compact&theme=radical)
 
-## `>_ Roadmap de Aprendizado`
+## `>_ Roadmap de aprendizado`
 
 ### 🔥 No momento, estou estudando:
 - ☁️| Cloud Computing (AWS, Azure, GCP)
