@@ -8,7 +8,7 @@
     <li>👩🏻‍💻|  Entusiasta de tecnologia e desenvolvimento de software...</li>
     <li>🖱️|  Busco aplicar e aprimorar meus conhecimentos em Cloud e Inteligência Artificial, em projetos Full-Stack e DevOps.</li>
     <li>🎓|  Atualmente cursando Análise e desenvolvimento de sistemas na Estácio.</li>
-    <li>🛠️|  Explorando ferramentas como: CI/CD e IA em ambiente de Cloud.</li>
+    <li>🛠️|  Explorando ferramentas como: CI/CD em ambiente de Cloud.</li>
     <li>📍|  São Paulo - Brasil.</li>
   </ul>
 </div>
