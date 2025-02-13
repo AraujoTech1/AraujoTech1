@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!</h1>
 
-##  `>_ Sobre mim` 
+##  `>_ Sobre Mim` 
 <div>
   <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Minha Foto" width="400" align="right" style="margin-left: 20px;" />
   <ul>
@@ -8,7 +8,7 @@
     <li>👩🏻‍💻|  Entusiasta de tecnologia e desenvolvimento de software...</li>
     <li>🖱️|  Busco aplicar e aprimorar meus conhecimentos em Cloud e Inteligência Artificial, em projetos Full-Stack e DevOps.</li>
     <li>🎓|  Atualmente cursando Análise e desenvolvimento de sistemas na Estácio.</li>
-    <li>🛠️|  Explorando ferramentas como: CI/CD, IA Generativa, ML, DL, reconhecimento facial e IoT em ambiente de Cloud.</li>
+    <li>🛠️|  Explorando ferramentas como: CI/CD e IA em ambiente de Cloud.</li>
     <li>📍|  São Paulo - Brasil.</li>
   </ul>
 </div>
@@ -33,8 +33,10 @@
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Deep+Learning)
 [![Reconhecimento Facial](https://img.shields.io/badge/Reconhecimento%20Facial-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Reconhecimento+Facial)
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=IA+Generativa)
+[![Redes Neurais](https://img.shields.io/badge/Redes%20Neurais-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Redes+Neurais)  
+[![Processamento de Linguagem Natural (NLP)](https://img.shields.io/badge/NLP-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Processamento+de+Linguagem+Natural) 
 
-## `>_ Tecnologias de cloud`
+## `>_ Tecnologias de Cloud`
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -43,7 +45,7 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
 </div>
 
-## `>_ S.O & ferramentas`
+## `>_ S.O & Ferramentas`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -77,14 +79,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9370DB)](mailto:xfernandaaraujo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9370DB)](https://www.instagram.com/AraujoTech1)
 [![GitLab](https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=9370DB)](https://gitlab.com/xfernandaaraujo)
+[![DIO](https://img.shields.io/badge/DIO-9370DB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=9370DB)](https://www.dio.me/users/xfernandaaraujo) 
+[![Credly](https://img.shields.io/badge/Credly-9370DB?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=9370DB)](https://www.credly.com/users/fernandaaraujo1)  
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-9370DB?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=9370DB)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)  
 
 
-## `>_ GitHub stats`
+## `>_ GitHub Stats`
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AraujoTech1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoTech1&layout=compact&theme=radical)
 
-## `>_ Roadmap de aprendizado`
+## `>_ Roadmap de Aprendizado`
 
 ### 🔥 No momento, estou estudando:
 - ☁️| Cloud Computing (AWS, Azure, GCP)
