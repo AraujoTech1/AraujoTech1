@@ -98,6 +98,7 @@
 - ☁️| Cloud Computing (AWS, Azure, GCP)
 - 🤖| Inteligência Artificial
 - 💻| Programação
+- 🖱️| Dio Campus Expert 
 
 ### 🎯 Próximos passos:
 - 🔐| Segurança da Informação e Ethical Hacking (OSINT, CTFs, Pentest)
