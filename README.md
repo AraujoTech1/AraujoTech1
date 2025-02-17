@@ -98,7 +98,8 @@
 - ☁️| Cloud Computing (AWS, Azure, GCP)
 - 🤖| Inteligência Artificial
 - 💻| Programação
-- 🖱️| Dio Campus Expert 
+- 📱| Dio Campus Expert
+- 🌎| AWS reStart V2 
 
 ### 🎯 Próximos passos:
 - 🔐| Segurança da Informação e Ethical Hacking (OSINT, CTFs, Pentest)
