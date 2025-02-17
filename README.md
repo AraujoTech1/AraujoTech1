@@ -1,4 +1,4 @@
-<h1 align="center"> ❮ Hello, World! </h1>
+<h1 align="center"> ❮ Hello, World! ❯ </h1>
 
 ##  `>_ Sobre Mim` 
 <div>
@@ -93,15 +93,15 @@
 ## `>_ Roadmap de Aprendizado`
 
 ### 🔥 No momento, estou estudando:
-- ☁️| Cloud Computing (AWS, Azure, GCP)
+- ☁️| Cloud Computing ❮AWS, Azure, GCP❯
 - 🤖| Inteligência Artificial
 - 💻| Programação
-- 📱| Dio Campus Expert < aprendizado continuo />
-- 🌎| AWS reStart V2 < aprendizado continuo />
+- 📱| Dio Campus Expert ❮ aprendizado continuo /❯
+- 🌎| AWS reStart V2 ❮ aprendizado continuo /❯
 
 ### 🎯 Próximos passos:
-- 🔐| Segurança da Informação e Ethical Hacking < OSINT, CTFs, Pentest />
-- 🔍| Ferramentas de segurança < Burp Suite, Metasploit, Wireshark />
+- 🔐| Segurança da Informação e Ethical Hacking ❮ OSINT, CTFs, Pentest /❯
+- 🔍| Ferramentas de segurança ❮ Burp Suite, Metasploit, Wireshark /❯
 - 🐧| Segurança ofensiva em Linux
 - 🛡️| Cibersegurança com IA e Cloud
 
