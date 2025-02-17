@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World!</h1>
+<h1 align="center"> ❮ Hello, World! </h1>
 
 ##  `>_ Sobre Mim` 
 <div>
@@ -16,8 +16,6 @@
 ##  `>_ Linguagens`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
