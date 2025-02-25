@@ -8,7 +8,7 @@
     <li>👩🏻‍💻|  Entusiasta de Cloud, Inteligencia Artificial, Segurança da Informação e Desenvolvimento de Software...</li>
     <li>🖱️|  Busco aplicar e aprimorar meus conhecimentos em Multicloud, Segurança da Informação e Inteligência Artificial.</li>
     <li>🎓|  Atualmente cursando análise e desenvolvimento de sistemas na Estácio.</li>
-    <li>🛠️|  Explorando ferramentas como: CI/CD, teste de software e Full-Stack.</li>
+    <li>🛠️|  Explorando ferramentas como: CI/CD para DevOps, teste de software e Full-Stack.</li>
     <li>📍|  São Paulo - Brasil.</li>
   </ul>
 </div>
