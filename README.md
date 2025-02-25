@@ -96,11 +96,11 @@
 - ☁️| Cloud Computing ❮AWS, Azure, GCP❯
 - 🤖| Inteligência Artificial
 - 💻| Programação
+- 🔐| Segurança da Informação e Ethical Hacking ❮OSINT, CTFs, Pentest❯
 - 📱| Dio Campus Expert 
 - 🌎| AWS reStart V2
 
 ### 🎯 Próximos passos:
-- 🔐| Segurança da Informação e Ethical Hacking ❮OSINT, CTFs, Pentest❯
 - 🔍| Ferramentas de segurança ❮Burp Suite, Metasploit, Wireshark❯
 - 🐧| Segurança ofensiva em Linux
 - 🛡️| Cibersegurança com IA e Cloud
