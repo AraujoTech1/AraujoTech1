@@ -17,6 +17,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -96,11 +98,12 @@
 - ☁️| Cloud Computing ❮AWS, Azure, GCP❯
 - 🤖| Inteligência Artificial
 - 💻| Programação
-- 🔐| Segurança da Informação e Ethical Hacking ❮OSINT, CTFs, Pentest❯
+- 🔐| Segurança da Informação ❮OSINT, CTFs, Pentest❯
 - 📱| Dio Campus Expert 
 - 🌎| AWS reStart V2
 
 ### 🎯 Próximos passos:
+- 🔐| Ethical Hacking
 - 🔍| Ferramentas de segurança ❮Burp Suite, Metasploit, Wireshark❯
 - 🐧| Segurança ofensiva em Linux
 - 🛡️| Cibersegurança com IA e Cloud
