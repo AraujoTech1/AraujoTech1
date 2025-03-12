@@ -15,15 +15,15 @@
 
 ##  `>_ Linguagens`
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
 </div>
 
@@ -80,13 +80,13 @@
 
 ## `>_ Como me encontrar`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&labelColor=9370DB)](https://www.linkedin.com/in/fernanda-araujo-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=C0C0C0&labelColor=9370DB)](mailto:xfernandaaraujo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=C0C0C0&labelColor=9370DB)](https://www.instagram.com/AraujoTech1)
-[![GitLab](https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=C0C0C0&labelColor=9370DB)](https://gitlab.com/xfernandaaraujo)
-[![DIO](https://img.shields.io/badge/DIO-9370DB?style=for-the-badge&logo=codeforces&logoColor=C0C0C0&labelColor=9370DB)](https://www.dio.me/users/xfernandaaraujo) 
-[![Credly](https://img.shields.io/badge/Credly-9370DB?style=for-the-badge&logo=acclaim&logoColor=C0C0C0&labelColor=9370DB)](https://www.credly.com/users/fernandaaraujo1)  
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-9370DB?style=for-the-badge&logo=microsoft&logoColor=C0C0C0&labelColor=9370DB)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)
+<a href="https://www.linkedin.com/in/fernanda-araujo-dev/"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&labelColor=9370DB" alt="LinkedIn"></a>
+<a href="mailto:xfernandaaraujo@gmail.com"><img src="https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=C0C0C0&labelColor=9370DB" alt="Gmail"></a>
+<a href="https://www.instagram.com/AraujoTech1"><img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=C0C0C0&labelColor=9370DB" alt="Instagram"></a>
+<a href="https://gitlab.com/xfernandaaraujo"><img src="https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=C0C0C0&labelColor=9370DB" alt="GitLab"></a>
+<a href="https://www.dio.me/users/xfernandaaraujo"><img src="https://img.shields.io/badge/DIO-9370DB?style=for-the-badge&logo=codeforces&logoColor=C0C0C0&labelColor=9370DB" alt="DIO"></a>
+<a href="https://www.credly.com/users/fernandaaraujo1"><img src="https://img.shields.io/badge/Credly-9370DB?style=for-the-badge&logo=acclaim&logoColor=C0C0C0&labelColor=9370DB" alt="Credly"></a>
+<a href="https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab"><img src="https://img.shields.io/badge/Microsoft_Learn-9370DB?style=for-the-badge&logo=microsoft&logoColor=C0C0C0&labelColor=9370DB" alt="Microsoft Learn"></a>
 
 
 ## `>_ GitHub Stats & Top Langs` 
@@ -106,6 +106,7 @@
 - 🔍| Ferramentas de segurança ❮Burp Suite, Metasploit, Wireshark❯
 - 🐧| Segurança ofensiva em Linux
 - 🛡️| Cibersegurança com IA e Cloud
+
 
 <img src="https://camo.githubusercontent.com/100f9ff90e206d59a4d8773be33c36be07ae69e9e8727fcd6fbfd4311f8409c0/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d6772616469656e742673656374696f6e3d666f6f74657226726576657273616c3d66616c7365267465787442673d66616c736526666f6e74416c69676e3d353026726f746174653d2d31" />
 
