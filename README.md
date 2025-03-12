@@ -5,36 +5,38 @@
   <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Minha Foto" width="400" align="right" style="margin-left: 20px;" />
   <ul>
     <li>👋|  Olá, eu sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻|  Entusiasta de Cloud, Inteligencia Artificial, Segurança da Informação e Desenvolvimento de Software...</li>
-    <li>🖱️|  Busco aplicar e aprimorar meus conhecimentos em Multicloud, Segurança da Informação e Inteligência Artificial.</li>
-    <li>🎓|  Atualmente cursando análise e desenvolvimento de sistemas na Estácio.</li>
-    <li>🛠️|  Explorando ferramentas como: CI/CD para DevOps, teste de software e Full-Stack.</li>
-    <li>📍|  São Paulo - Brasil.</li>
+    <li>👩🏻‍💻|  Entusiasta de Cloud, Inteligencia Artificial, Segurança da Informação e Desenvolvimento de Software</li>
+    <li>🖱️|  Busco aplicar e aprimorar meus conhecimentos em Multicloud, Inteligência Artificial e Segurança da Informação</li>
+    <li>🎓| Atualmente cursando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/" target="_blank">Estácio</a></li>
+    <li>🛠️|  Explorando ferramentas como: CI/CD para DevOps, Teste de Software e Full-Stack</li>
+    <li>📍|  São Paulo - Brasil</li>
   </ul>
 </div>
 
 ##  `>_ Linguagens`
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
   <img width="12" />
 </div>
 
 ## `>_ Tecnologias de IA`
-[![IoT](https://img.shields.io/badge/IoT-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Internet+das+Coisas)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Machine+Learning)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Deep+Learning)
-[![Reconhecimento Facial](https://img.shields.io/badge/Reconhecimento%20Facial-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Reconhecimento+Facial)
-[![IA Generativa](https://img.shields.io/badge/IA%20Generativa-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=IA+Generativa)
-[![Redes Neurais](https://img.shields.io/badge/Redes%20Neurais-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Redes+Neurais)  
-[![Processamento de Linguagem Natural (NLP)](https://img.shields.io/badge/NLP-FFC0CB?style=for-the-badge&logoColor=white)](https://www.google.com/search?q=Processamento+de+Linguagem+Natural) 
+![IoT](https://img.shields.io/badge/IoT-FFB6C1?style=for-the-badge&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFB6C1?style=for-the-badge&logoColor=white) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFB6C1?style=for-the-badge&logoColor=white) 
+![Reconhecimento Facial](https://img.shields.io/badge/Reconhecimento%20Facial-FFB6C1?style=for-the-badge&logoColor=white) 
+![Visão Computacional](https://img.shields.io/badge/Visão%20Computacional-FFB6C1?style=for-the-badge&logoColor=white) 
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-FFB6C1?style=for-the-badge&logoColor=white) 
+![Redes Neurais](https://img.shields.io/badge/Redes%20Neurais-FFB6C1?style=for-the-badge&logoColor=white) 
+![Processamento de Linguagem Natural (NLP)](https://img.shields.io/badge/NLP-FFB6C1?style=for-the-badge&logoColor=white) 
+![Aprendizado por Reforço](https://img.shields.io/badge/Aprendizado%20por%20Reforço-FFB6C1?style=for-the-badge&logoColor=white)
 
 ## `>_ Tecnologias de Cloud`
 <div align="left">
@@ -78,16 +80,16 @@
 
 ## `>_ Como me encontrar`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9370DB)](https://www.linkedin.com/in/fernanda-araujo-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=9370DB)](mailto:xfernandaaraujo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9370DB)](https://www.instagram.com/AraujoTech1)
-[![GitLab](https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=9370DB)](https://gitlab.com/xfernandaaraujo)
-[![DIO](https://img.shields.io/badge/DIO-9370DB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=9370DB)](https://www.dio.me/users/xfernandaaraujo) 
-[![Credly](https://img.shields.io/badge/Credly-9370DB?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=9370DB)](https://www.credly.com/users/fernandaaraujo1)  
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-9370DB?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=9370DB)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&labelColor=9370DB)](https://www.linkedin.com/in/fernanda-araujo-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=C0C0C0&labelColor=9370DB)](mailto:xfernandaaraujo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=C0C0C0&labelColor=9370DB)](https://www.instagram.com/AraujoTech1)
+[![GitLab](https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=C0C0C0&labelColor=9370DB)](https://gitlab.com/xfernandaaraujo)
+[![DIO](https://img.shields.io/badge/DIO-9370DB?style=for-the-badge&logo=codeforces&logoColor=C0C0C0&labelColor=9370DB)](https://www.dio.me/users/xfernandaaraujo) 
+[![Credly](https://img.shields.io/badge/Credly-9370DB?style=for-the-badge&logo=acclaim&logoColor=C0C0C0&labelColor=9370DB)](https://www.credly.com/users/fernandaaraujo1)  
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-9370DB?style=for-the-badge&logo=microsoft&logoColor=C0C0C0&labelColor=9370DB)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)
 
 
-## `>_ GitHub Stats`
+## `>_ GitHub Stats & Top Langs` 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AraujoTech1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoTech1&layout=compact&theme=radical)
@@ -98,12 +100,9 @@
 - ☁️| Cloud Computing ❮AWS, Azure, GCP❯
 - 🤖| Inteligência Artificial
 - 💻| Programação
-- 🔐| Segurança da Informação ❮OSINT, CTFs, Pentest❯
-- 📱| Dio Campus Expert 
-- 🌎| AWS reStart V2
 
 ### 🎯 Próximos passos:
-- 🔐| Ethical Hacking
+- 🔐| Segurança da Informação com foco Ethical Hacking ❮OSINT, CTFs, Pentest❯
 - 🔍| Ferramentas de segurança ❮Burp Suite, Metasploit, Wireshark❯
 - 🐧| Segurança ofensiva em Linux
 - 🛡️| Cibersegurança com IA e Cloud
