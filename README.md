@@ -7,7 +7,7 @@
     <li>👋|  Olá, eu sou Fernanda Araujo!</li>
     <li>👩🏻‍💻|  Entusiasta de Cloud, Inteligencia Artificial, Segurança da Informação e Desenvolvimento de Software</li>
     <li>🖱️|  Busco aplicar e aprimorar meus conhecimentos em Multicloud, Inteligência Artificial e Segurança da Informação</li>
-    <li>🎓| Atualmente cursando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/" target="_blank">Estácio</a></li>
+    <li>🎓|  Cursando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/" target="_blank">Estácio</a></li>
     <li>🛠️|  Explorando ferramentas como: CI/CD para DevOps, Teste de Software e Full-Stack</li>
     <li>📍|  São Paulo - Brasil</li>
   </ul>
