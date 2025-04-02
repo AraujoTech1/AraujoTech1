@@ -69,15 +69,6 @@
  
 </div>
 
-## `>_ Projetos`
-
-- **[Previsão de Desastres com IoT](https://github.com/AraujoTech1/Projeto-IoT-Previsao-Desastres)**: Sistema que usa tecnologia IoT para monitorar e prever desastres naturais, como enchentes e terremotos.
-- **[Quiz Interativo de TI](https://github.com/AraujoTech1/quiz-interativo-ti)**: Quiz para testar e aprimorar conhecimentos em TI, com feedback sobre as respostas.
-- **[GitLab CI/CD - Docker & Kubernetes](https://github.com/AraujoTech1/GitLabCICD-Docker-Kubernetes)**: Pipeline de deploy de uma aplicação Node.js utilizando Docker e Kubernetes.
-- **[AWS Rekognition - Detectando Celebridades](https://github.com/AraujoTech1/aws-rekognition-detectando-celebridades)**: Detecção de Celebridades com AWS Rekognition: Aplicação em Python que utiliza o AWS Rekognition para identificar celebridades em imagens, integrando-se aos serviços da AWS via boto3.
-- **[Validador de Bandeira de Cartão de Crédito](https://github.com/AraujoTech1/validadorcartao)**: Função que identifica a bandeira do cartão de crédito com base no número inserido, suportando Visa, Mastercard, Elo e Hypercard, e podendo ser integrada a sistemas de pagamento e e-commerce.
-- **[Calculadora de Partidas Rankeadas](https://github.com/AraujoTech1/calculadora-partidas)**: Classificador de Nível de Jogador: Aplicação em Node.js que calcula o saldo de vitórias e derrotas em partidas ranqueadas, classificando o jogador em níveis como Ferro, Bronze e Prata com base no número de vitórias.
-
 ## `>_ Como me encontrar`
 
 <a href="https://www.linkedin.com/in/fernanda-araujo-dev/"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&labelColor=9370DB" alt="LinkedIn"></a>
