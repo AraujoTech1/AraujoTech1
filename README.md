@@ -46,7 +46,7 @@
 
 
 ## `>_ Inteligencia Artificial` 
-
+<div style="display: inline-block; transform: scale(1.6); transform-origin: top left;">
   <img src="https://img.shields.io/badge/IoT-9370DB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-9370DB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-9370DB?style=flat-square&logoColor=white" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/IA%20Generativa-9370DB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Redes%20Neurais-9370DB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-9370DB?style=flat-square&logoColor=white" />
-
+</div>
 
 ## `>_ Cloud Computing`
 <div align="left">
