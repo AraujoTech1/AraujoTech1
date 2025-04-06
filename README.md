@@ -94,25 +94,25 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fernanda-araujo-dev/">
-    <img src="https://img.shields.io/badge/-LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:xfernandaaraujo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-001F3F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Gmail-001F3F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/AraujoTech1">
-    <img src="https://img.shields.io/badge/-Instagram-001F3F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Instagram-001F3F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://gitlab.com/xfernandaaraujo">
-    <img src="https://img.shields.io/badge/-GitLab-001F3F?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/GitLab-001F3F?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://www.dio.me/users/xfernandaaraujo">
-    <img src="https://img.shields.io/badge/-DIO-001F3F?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/DIO-001F3F?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.credly.com/users/fernandaaraujo1">
-    <img src="https://img.shields.io/badge/-Credly-001F3F?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Credly-001F3F?style=for-the-badge&logo=acclaim&logoColor=white" />
   </a>
   <a href="https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab">
-    <img src="https://img.shields.io/badge/-Microsoft_Learn-001F3F?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+    <img src="https://img.shields.io/badge/Microsoft_Learn-001F3F?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
 </p>
 
