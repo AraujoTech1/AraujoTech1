@@ -46,7 +46,7 @@
 
 
 ## `>_ Inteligencia Artificial` 
-<div style="zoom: 2.3">
+<div style="zoom: 5.3">
   <img src="https://img.shields.io/badge/IoT-9370DB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-9370DB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-9370DB?style=flat-square&logoColor=white" />
