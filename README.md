@@ -92,30 +92,13 @@
 
 ## `>_ Como me encontrar`
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernanda-araujo-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:xfernandaaraujo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-001F3F?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/AraujoTech1">
-    <img src="https://img.shields.io/badge/Instagram-001F3F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/xfernandaaraujo">
-    <img src="https://img.shields.io/badge/GitLab-001F3F?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="https://www.dio.me/users/xfernandaaraujo">
-    <img src="https://img.shields.io/badge/DIO-001F3F?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/fernandaaraujo1">
-    <img src="https://img.shields.io/badge/Credly-001F3F?style=for-the-badge&logo=acclaim&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-001F3F?style=for-the-badge&logo=microsoft&logoColor=white" />
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-araujo-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-001F3F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-001F3F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AraujoTech1)
+[![GitLab](https://img.shields.io/badge/GitLab-001F3F?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xfernandaaraujo)
+[![DIO](https://img.shields.io/badge/DIO-001F3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.dio.me/users/xfernandaaraujo)
+[![Credly](https://img.shields.io/badge/Credly-001F3F?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/fernandaaraujo1)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-001F3F?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)
 
 ## `>_ GitHub Stats & Top Langs` 
 
