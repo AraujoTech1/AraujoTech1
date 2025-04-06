@@ -2,82 +2,119 @@
 
 ##  `>_ Sobre Mim` 
 <div>
-  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Minha Foto" width="400" align="right" style="margin-left: 20px;" />
+  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Imagem 01" width="280" align="right" style="margin-left: 20px;" />
   <ul>
     <li>👋|  Olá, eu sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻|  Entusiasta de Cloud, Inteligencia Artificial, Segurança da Informação e Desenvolvimento de Software</li>
-    <li>🖱️|  Busco aplicar e aprimorar meus conhecimentos em Multicloud, Inteligência Artificial e Segurança da Informação</li>
-    <li>🎓|  Cursando Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/" target="_blank">Estácio</a></li>
-    <li>🛠️|  Explorando ferramentas como: CI/CD para DevOps, Teste de Software e Full-Stack</li>
+    <li>👩🏻‍💻|  Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA, Segurança da Informação no Desenvolvimento de Software</li>
+    <li>🎓|  Estou cursando Análise e Desenvolvimento de Sistemas</li>
+    <li>🛠️|  Explorando ferramentas para: DevOps, Testes de Software e Full-Stack</li>
     <li>📍|  São Paulo - Brasil</li>
   </ul>
 </div>
 
-##  `>_ Linguagens`
+##  `>_ Linguagens` 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin-left: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-left: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="margin-left: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="margin-left: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="margin-left: 10px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="margin-left: 10px"/>
+  </p>
 </div>
 
-## `>_ Tecnologias de IA`
-![IoT](https://img.shields.io/badge/IoT-FFB6C1?style=for-the-badge&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFB6C1?style=for-the-badge&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFB6C1?style=for-the-badge&logoColor=white) 
-![Reconhecimento Facial](https://img.shields.io/badge/Reconhecimento%20Facial-FFB6C1?style=for-the-badge&logoColor=white) 
-![Visão Computacional](https://img.shields.io/badge/Visão%20Computacional-FFB6C1?style=for-the-badge&logoColor=white) 
-![IA Generativa](https://img.shields.io/badge/IA%20Generativa-FFB6C1?style=for-the-badge&logoColor=white) 
-![Redes Neurais](https://img.shields.io/badge/Redes%20Neurais-FFB6C1?style=for-the-badge&logoColor=white) 
-![Processamento de Linguagem Natural (NLP)](https://img.shields.io/badge/NLP-FFB6C1?style=for-the-badge&logoColor=white) 
-![Aprendizado por Reforço](https://img.shields.io/badge/Aprendizado%20por%20Reforço-FFB6C1?style=for-the-badge&logoColor=white)
-
-## `>_ Tecnologias de Cloud`
+## `>_ Bibliotecas & Frameworks`
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo" />
 </div>
 
-## `>_ S.O & Ferramentas`
+
+## `>_ Inteligencia Artificial` 
+<div style="zoom: 1.3">
+  <img src="https://img.shields.io/badge/IoT-9370DB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-9370DB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-9370DB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reconhecimento%20Facial-9370DB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA%20Generativa-9370DB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redes%20Neurais-9370DB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-9370DB?style=flat-square&logoColor=white" />
+</div>
+
+## `>_ Cloud Computing`
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
+</div>
+
+## `>_ Ferramentas & Bancos de Dados`
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
- 
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
 </div>
 
 ## `>_ Como me encontrar`
 
-<a href="https://www.linkedin.com/in/fernanda-araujo-dev/"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&labelColor=9370DB" alt="LinkedIn"></a>
-<a href="mailto:xfernandaaraujo@gmail.com"><img src="https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=C0C0C0&labelColor=9370DB" alt="Gmail"></a>
-<a href="https://www.instagram.com/AraujoTech1"><img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=C0C0C0&labelColor=9370DB" alt="Instagram"></a>
-<a href="https://gitlab.com/xfernandaaraujo"><img src="https://img.shields.io/badge/GitLab-9370DB?style=for-the-badge&logo=gitlab&logoColor=C0C0C0&labelColor=9370DB" alt="GitLab"></a>
-<a href="https://www.dio.me/users/xfernandaaraujo"><img src="https://img.shields.io/badge/DIO-9370DB?style=for-the-badge&logo=codeforces&logoColor=C0C0C0&labelColor=9370DB" alt="DIO"></a>
-<a href="https://www.credly.com/users/fernandaaraujo1"><img src="https://img.shields.io/badge/Credly-9370DB?style=for-the-badge&logo=acclaim&logoColor=C0C0C0&labelColor=9370DB" alt="Credly"></a>
-<a href="https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab"><img src="https://img.shields.io/badge/Microsoft_Learn-9370DB?style=for-the-badge&logo=microsoft&logoColor=C0C0C0&labelColor=9370DB" alt="Microsoft Learn"></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/fernanda-araujo-dev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+  </a>
+  <a href="mailto:xfernandaaraujo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-001F3F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+  </a>
+  <a href="https://www.instagram.com/AraujoTech1">
+    <img src="https://img.shields.io/badge/-Instagram-001F3F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+  </a>
+  <a href="https://gitlab.com/xfernandaaraujo">
+    <img src="https://img.shields.io/badge/-GitLab-001F3F?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+  </a>
+  <a href="https://www.dio.me/users/xfernandaaraujo">
+    <img src="https://img.shields.io/badge/-DIO-001F3F?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+  </a>
+  <a href="https://www.credly.com/users/fernandaaraujo1">
+    <img src="https://img.shields.io/badge/-Credly-001F3F?style=for-the-badge&logo=acclaim&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab">
+    <img src="https://img.shields.io/badge/-Microsoft_Learn-001F3F?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=001F3F" style="border-radius: 20px;" />
+  </a>
+</p>
 
 
 ## `>_ GitHub Stats & Top Langs` 
