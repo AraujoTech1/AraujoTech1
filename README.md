@@ -100,6 +100,7 @@
 [![DIO](https://img.shields.io/badge/DIO-001F3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.dio.me/users/xfernandaaraujo)
 [![Credly](https://img.shields.io/badge/Credly-001F3F?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/fernandaaraujo1)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-001F3F?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)
+[![Medium](https://img.shields.io/badge/Medium-001F3F?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandaaraujo)
 
 ## `>_ GitHub Stats & Top Langs` 
 
