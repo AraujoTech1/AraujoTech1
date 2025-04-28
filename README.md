@@ -1,17 +1,25 @@
 
 <h1 align="center"> ❮ Hello, World! ❯ </h1>
 
-##  `>_ Sobre Mim` 
+## `>_ Sobre Mim`
 <div>
-  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Imagem 01" width="280" align="right" style="margin-left: 20px;" />
+  <img src="Img/img03.jpg" alt="Imagem 02" width="165" align="right" style="margin-left: 20px; margin-right: 20px;" />
   <ul>
-    <li>👋|  Olá, eu sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻|  Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
-    <li>🎓|  Estou cursando Análise e Desenvolvimento de Sistemas</li>
-    <li>🛠️|  Explorando ferramentas para: DevOps, MLOps, Testes de Software, e Full-Stack</li>
-    <li>📍|  São Paulo - Brasil</li>
+    <li>👋| Olá, eu sou Fernanda Araujo!</li>
+    <li>👩🏻‍💻| Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
+    <li>🎓| Estou cursando Análise e Desenvolvimento de Sistemas</li>
+    <li>🛠️| Explorando ferramentas para: DevOps, MLOps, Testes de Software, e Full-Stack</li>
+    <li>📍| São Paulo - Brasil</li>
   </ul>
 </div>
+
+## `>_ GitHub Stats & Top Langs`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AraujoTech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AraujoTech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
 
 ##  `>_ Linguagens` 
 <div align="left">
@@ -55,7 +63,6 @@
   <img src="https://img.shields.io/badge/NLP-9370DB?style=for-the-badge&logoColor=white" />
 </div>
 
-
 ## `>_ Cloud Computing`
 <div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="40" alt="aws logo" />
@@ -92,21 +99,15 @@
 
 ## `>_ Como me encontrar`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-araujo-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-001F3F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-001F3F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AraujoTech1)
-[![GitLab](https://img.shields.io/badge/GitLab-001F3F?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xfernandaaraujo)
-[![DIO](https://img.shields.io/badge/DIO-001F3F?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.dio.me/users/xfernandaaraujo)
-[![Credly](https://img.shields.io/badge/Credly-001F3F?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/fernandaaraujo1)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-001F3F?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)
-[![Medium](https://img.shields.io/badge/Medium-001F3F?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandaaraujo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3E1A47?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-araujo-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-3E1A47?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-3E1A47?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AraujoTech1)
+[![GitLab](https://img.shields.io/badge/GitLab-3E1A47?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xfernandaaraujo)
+[![DIO](https://img.shields.io/badge/DIO-3E1A47?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.dio.me/users/xfernandaaraujo)
+[![Credly](https://img.shields.io/badge/Credly-3E1A47?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/fernandaaraujo1)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-3E1A47?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)
+[![Medium](https://img.shields.io/badge/Medium-3E1A47?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandaaraujo)
 
-## `>_ GitHub Stats & Top Langs` 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AraujoTech1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AraujoTech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 
 <img src="https://camo.githubusercontent.com/100f9ff90e206d59a4d8773be33c36be07ae69e9e8727fcd6fbfd4311f8409c0/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d6772616469656e742673656374696f6e3d666f6f74657226726576657273616c3d66616c7365267465787442673d66616c736526666f6e74416c69676e3d353026726f746174653d2d31" />
