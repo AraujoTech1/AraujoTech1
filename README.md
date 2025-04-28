@@ -3,7 +3,7 @@
 
 ## `>_ Sobre Mim`
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
+  <div style="flex: 1; padding-right: 20px;">
     <ul>
       <li>👋| Olá, eu sou Fernanda Araujo!</li>
       <li>👩🏻‍💻| Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
@@ -13,9 +13,10 @@
     </ul>
   </div>
   <div>
-    <img src="Img/img03.jpg" alt="Imagem 02" style="width: 190px; border-radius: 10px; margin-left: 40px;" />
+    <img src="Img/img03.jpg" alt="Imagem 02" style="width: 190px; border-radius: 10px;" />
   </div>
 </div>
+
 
 
 ##  `>_ Linguagens` 
