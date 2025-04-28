@@ -33,6 +33,8 @@
   </p>
 </div>
 
+
+
 ## `>_ Bibliotecas & Frameworks`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
@@ -51,6 +53,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo" />
 </div>
+
+
 
 ## `>_ Inteligência Artificial`  
 <div align="left">
@@ -71,6 +75,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
 </div>
+
 
 ## `>_ Ferramentas & Bancos de Dados`
 <div align="left">
@@ -96,6 +101,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
 </div>
+
+
 
 ## `>_ Como me encontrar`
 
