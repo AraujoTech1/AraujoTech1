@@ -2,21 +2,16 @@
 <h1 align="center"> ❮ Hello, World! ❯ </h1>
 
 ## `>_ Sobre Mim`
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li>👋| Olá, eu sou Fernanda Araujo!</li>
-      <li>👩🏻‍💻| Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
-      <li>🎓| Estou cursando Análise e Desenvolvimento de Sistemas</li>
-      <li>🛠️| Explorando ferramentas para: DevOps, MLOps, Testes de Software, e Full-Stack</li>
-      <li>📍| São Paulo - Brasil</li>
-    </ul>
-  </div>
-  <div>
-    <img src="Img/img03.jpg" alt="Imagem 02" style="width: 190px; border-radius: 10px;" />
-  </div>
+<div>
+  <img src="Img/img03.jpg" alt="Imagem 02" width="165" align="right" style="margin-left: 20px; margin-right: 20px;" />
+  <ul>
+    <li>👋| Olá, eu sou Fernanda Araujo!</li>
+    <li>👩🏻‍💻| Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
+    <li>🎓| Estou cursando Análise e Desenvolvimento de Sistemas</li>
+    <li>🛠️| Explorando ferramentas para: DevOps, MLOps, Testes de Software, e Full-Stack</li>
+    <li>📍| São Paulo - Brasil</li>
+  </ul>
 </div>
-
 
 
 ##  `>_ Linguagens` 
