@@ -1,17 +1,22 @@
 
 <h1 align="center"> ❮ Hello, World! ❯ </h1>
 
-##  `>_ Sobre Mim` 
-<div>
-  <img src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480" alt="Imagem 01" width="280" align="right" style="margin-left: 20px;" />
-  <ul>
-    <li>👋|  Olá, eu sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻|  Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
-    <li>🎓|  Estou cursando Análise e Desenvolvimento de Sistemas</li>
-    <li>🛠️|  Explorando ferramentas para: DevOps, MLOps, Testes de Software, e Full-Stack</li>
-    <li>📍|  São Paulo - Brasil</li>
-  </ul>
+## `>_ Sobre Mim`
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <ul>
+      <li>👋| Olá, eu sou Fernanda Araujo!</li>
+      <li>👩🏻‍💻| Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
+      <li>🎓| Estou cursando Análise e Desenvolvimento de Sistemas</li>
+      <li>🛠️| Explorando ferramentas para: DevOps, MLOps, Testes de Software, e Full-Stack</li>
+      <li>📍| São Paulo - Brasil</li>
+    </ul>
+  </div>
+  <div>
+    <img src="Img/img03.jpg" alt="Imagem 02" style="width: 190px; border-radius: 10px; margin-left: 40px;" />
+  </div>
 </div>
+
 
 ##  `>_ Linguagens` 
 <div align="left">
@@ -24,6 +29,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="margin-left: 10px"/>
   </p>
 </div>
+
+
 
 ## `>_ Bibliotecas & Frameworks`
 <div align="left">
@@ -43,6 +50,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo" />
 </div>
+
+
 
 ## `>_ Inteligência Artificial`  
 <div align="left">
@@ -64,6 +73,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
 </div>
+
 
 ## `>_ Ferramentas & Bancos de Dados`
 <div align="left">
@@ -89,6 +99,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
 </div>
+
+
 
 ## `>_ Como me encontrar`
 
