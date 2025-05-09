@@ -6,7 +6,7 @@
   <img src="Img/img03.jpg" alt="Imagem 02" width="165" align="right" style="margin-left: 20px; margin-right: 20px;" />
   <ul>
     <li>👋| Olá, eu sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻| Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
+    <li>👩🏻‍💻| Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA Aplicada e Segurança no Desenvolvimento de Software</li>
     <li>🎓| Estou cursando Análise e Desenvolvimento de Sistemas</li>
     <li>🛠️| Explorando ferramentas para: MLOps, Testes de Software, e Full-Stack</li>
     <li>📍| São Paulo - Brasil</li>
@@ -55,6 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="sass/scss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LangFlow-FFD43B?style=for-the-badge&logo=python&logoColor=black" height="40" />
 </div>
 
 
