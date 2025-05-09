@@ -8,7 +8,7 @@
     <li>👋| Olá, eu sou Fernanda Araujo!</li>
     <li>👩🏻‍💻| Busco aplicar e aprimorar meus conhecimentos em Multicloud, IA e Segurança no Desenvolvimento de Software</li>
     <li>🎓| Estou cursando Análise e Desenvolvimento de Sistemas</li>
-    <li>🛠️| Explorando ferramentas para: DevOps, MLOps, Testes de Software, e Full-Stack</li>
+    <li>🛠️| Explorando ferramentas para: MLOps, Testes de Software, e Full-Stack</li>
     <li>📍| São Paulo - Brasil</li>
   </ul>
 </div>
