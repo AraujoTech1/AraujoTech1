@@ -55,10 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="sass/scss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/132944887?s=200&v=4" height="40" alt="langchain logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/123637106?s=200&v=4" height="40" alt="langflow logo" />
   </div>
 
 
