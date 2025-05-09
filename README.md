@@ -65,7 +65,6 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-9370DB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Reconhecimento%20Facial-9370DB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-9370DB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redes%20Neurais-9370DB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-9370DB?style=for-the-badge&logoColor=white" />
 </div>
 
