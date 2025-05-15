@@ -3,7 +3,7 @@
 
 ## `>_ Sobre Mim`
 <div>
-  <img src="Img/img03.jpg" alt="Imagem 02" width="230" align="right" style="margin-left: 40px; margin-right: 40px;" />
+  <img src="Img/img03.jpg" alt="Imagem 02" width="280" align="right" style="margin-left: 40px; margin-right: 40px;" />
   <ul>
     <li>👋| Olá, sou Fernanda Araujo!</li>
     <li>👩🏻‍💻| Apaixonada por tecnologia, estou em inicio de carreira para Desenvolvimento de Software, com foco em Multicloud, IA Aplicada e Segurança no Desenvolvimento</li>
