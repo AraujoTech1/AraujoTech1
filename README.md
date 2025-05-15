@@ -9,6 +9,7 @@
     <li>👩🏻‍💻| Apaixonada por tecnologia, estou em inicio de carreira para Desenvolvimento de Software, com foco em Multicloud, IA Aplicada e Segurança no Desenvolvimento</li>
     <li>🎓| Estudante de Análise e Desenvolvimento de Sistemas, em constante aprendizado e evolução prática</li>
     <li>🛠️| Explorando e aplicando ferramentas para MLOps, Testes de Software, e Desenvolvimento Full-Stack, com interesse especial em LLMs, NLP e reconhecimento facial</li>
+    <li>🌐| Conhecimentos em Python, Java, JavaScript, TypeScript, HTML, CSS, além de integração com serviços em nuvem (AWS, Azure, GCP)</li>
     <li>📍| Localizada em São Paulo - Brasil, aberta a oportunidades remotas e híbridas</li>
   </ul>
 </div>
