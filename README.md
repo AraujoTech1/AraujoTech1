@@ -6,7 +6,7 @@
   <img src="Img/img03.jpg" alt="Imagem 02" width="280" align="right" style="margin-left: 40px; margin-right: 40px;" />
   <ul>
     <li>👋| Olá, sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻| Apaixonada por tecnologia, estou em inicio de carreira para Desenvolvimento de Software, com foco em Multicloud, IA Aplicada e Segurança no Desenvolvimento</li>
+    <li>👩🏻‍💻| Apaixonada por tecnologia, estou em inicio de carreira para Desenvolvimento de Software, com foco em Multicloud e IA Aplicada.</li>
     <li>🎓| Estudante de Análise e Desenvolvimento de Sistemas, em constante aprendizado e evolução prática</li>
     <li>🛠️| Explorando e aplicando ferramentas para MLOps, Testes de Software, e Desenvolvimento Full-Stack, com interesse especial em LLMs, NLP e reconhecimento facial</li>
     <li>🌐| Conhecimentos em Python, Java, JavaScript, TypeScript, HTML, CSS, além de integração com serviços em nuvem (AWS, Azure, GCP)</li>
