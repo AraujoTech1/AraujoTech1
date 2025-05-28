@@ -1,10 +1,10 @@
 
 <h1 align="center"> ❮ Hello, World! ❯ </h1>
 
-## `>_ Sobre Mim`
 <div>
   <img src="Img/img03.jpg" alt="Imagem 02" width="280" align="right" style="margin-left: 40px; margin-right: 40px;" />
   <ul>
+    ## `>_ Sobre Mim`
     <li>👋| Olá, sou Fernanda Araujo!</li>
     <li>👩🏻‍💻| Apaixonada por tecnologia, estou em inicio de carreira para Desenvolvimento de Software, com foco em Multicloud e IA Aplicada.</li>
     <li>🎓| Estudante de Análise e Desenvolvimento de Sistemas, em constante aprendizado e evolução prática</li>
