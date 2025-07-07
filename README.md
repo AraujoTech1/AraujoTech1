@@ -1,12 +1,12 @@
-
 <h1 align="center"> ❮ Hello, World! ❯ </h1>
 
 ## `>_ Sobre Mim`
+
 <div>
-  <img src="Img/img03.jpg" alt="Imagem 02" width="280" align="right" style="margin-left: 40px; margin-right: 40px;" />
+  <img src="Img/imgperfil.jpg" alt="Imagem 02" width="200" align="right" />
   <ul>
     <li>👋| Olá, sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻| Apaixonada por tecnologia, estou em inicio de carreira para Desenvolvimento de Software, com foco em Multicloud e IA Aplicada.</li>
+    <li>👩🏻‍💻| Apaixonada por tecnologia, estou em início de carreira para Desenvolvimento de Software, com foco em Multicloud e IA Aplicada.</li>
     <li>🎓| Estudante de Análise e Desenvolvimento de Sistemas, em constante aprendizado e evolução prática</li>
     <li>🛠️| Explorando e aplicando ferramentas para Desenvolvimento Full-Stack, como AWS, Azure, GCP, LLMs e NLP</li>
     <li>🌐| Conhecimentos em Python, Java, JavaScript, TypeScript, HTML, CSS, além de integração com serviços em nuvem (AWS, Azure, GCP)</li>
@@ -23,64 +23,78 @@
 
 ## `>_ Linguagens`  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS logo" /> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS logo" />
+</p>
 
 ## `>_ Bibliotecas & Frameworks`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 
-
 ## `>_ Ferramentas & Bancos de Dados`
-<div align="left">
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" />
-</div>
+</p>
 
 ## `>_ Cloud Computing`
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="40" alt="AWS logo" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="40" alt="Azure logo" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="40" alt="GCP logo" />
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="30" alt="AWS logo" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" height="30" alt="Azure logo" />
+  &nbsp;&nbsp;
+</p>
 
 ## `>_ Inteligência Artificial`
 <div align="left">
@@ -102,7 +116,4 @@
 [![Credly](https://img.shields.io/badge/Credly-4c1d95?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credly.com/users/fernandaaraujo1)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-4c1d95?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/fernandaaraujo-0696/?tab=credentials-tab)
 [![Medium](https://img.shields.io/badge/Medium-4c1d95?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandaaraujo)
-
-
-
 
