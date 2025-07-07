@@ -44,25 +44,25 @@
 
 ## `>_ Ferramentas & Bancos de Dados`
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="git logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" alt="gitlab logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="vscode logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="nodejs logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="docker logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" alt="terraform logo" />&nbsp;
-<img src="https://cdn.simpleicons.org/kubernetes" width="30" alt="kubernetes logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="mongodb logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="mysql logo" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="postgresql logo" />&nbsp;
-<img src="https://cdn.simpleicons.org/postman" width="30" alt="postman logo" />&nbsp;
-<img src="https://cdn.simpleicons.org/figma" width="30" alt="figma logo" />&nbsp;
-<img src="https://cdn.simpleicons.org/canva" width="30" alt="canva logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="git logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" alt="gitlab logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="vscode logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="nodejs logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="docker logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" alt="terraform logo" />&nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes" width="50" alt="kubernetes logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="mongodb logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="mysql logo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="postgresql logo" />&nbsp;
+<img src="https://cdn.simpleicons.org/postman" width="50" alt="postman logo" />&nbsp;
+<img src="https://cdn.simpleicons.org/figma" width="50" alt="figma logo" />&nbsp;
+<img src="https://cdn.simpleicons.org/canva" width="50" alt="canva logo" />
 
 ## `>_ Cloud Computing`
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="40" alt="AWS logo" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="40" alt="Azure logo" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="40" alt="GCP logo" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="50" alt="AWS logo" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="50" alt="Azure logo" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="50" alt="GCP logo" />
 
 
 ## `>_ Inteligência Artificial`
