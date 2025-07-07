@@ -60,9 +60,8 @@
 
 ## `>_ Cloud Computing`
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="50" alt="AWS logo" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="50" alt="Azure logo" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="50" alt="GCP logo" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60" alt="AWS logo" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="60" alt="Azure logo" />&nbsp;&nbsp;
 
 
 ## `>_ Inteligência Artificial`
