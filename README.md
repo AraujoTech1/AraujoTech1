@@ -3,7 +3,7 @@
 ## `>_ Sobre Mim`
 
 <div>
-  <img src="Img/img03.jpg" alt="Imagem 02" width="280" align="right" />
+  <img src="Img/img03.jpg" alt="Imagem 02" width="300" align="right" />
   <ul>
     <li>👋| Olá, sou Fernanda Araujo!</li>
     <li>👩🏻‍💻| Apaixonada por tecnologia, estou no início da minha carreira em Desenvolvimento Web Full Stack, com foco em Multicloud e IA para automação.</li>
