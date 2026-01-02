@@ -6,11 +6,10 @@
   <img src="Img/img03.jpg" alt="Imagem 02" width="350" align="right" />
   <ul>
     <li>👋| Olá, sou Fernanda Araujo!</li>
-    <li>👩🏻‍💻| Apaixonada por tecnologia, estou no início da minha carreira em Desenvolvimento Web Full Stack, com foco em Multicloud e IA para automação.</li>
+    <li>👩🏻‍💻| Apaixonada por tecnologia, estou no início da minha carreira em Desenvolvimento Web Full Stack, com foco em Cloud Computing.</li>
     <li>🎓| Cursando Análise e Desenvolvimento de Sistemas, aprimorando continuamente meus conhecimentos na área de tecnologia.</li>
-    <li>🛠️| Exploro e aplico ferramentas para Desenvolvimento Full-Stack, incluindo versionamento com Git, containerização e deploy com Docker, orquestração em Kubernetes, FastAPI, APIs RESTful, front-end com React/Vue, back-end com Node.js, além da integração com AWS, Azure e uso de LLMs e NLP para automação.</li>
-    <li>🚀| Desenvolvi projetos como jogos inteligentes usando Vue e TensorFlow.js com AWS e AZURE, chatbots integrados ao WhatsApp com n8n e OpenAI, e quizzes interativos em JavaScript com LLMs.</li>
-    <li>📍| Resido em São Paulo - Brasil, disponível para vagas remotas e internacionais.</li>
+    <li>🛠️| Exploro e aplico ferramentas para Desenvolvimento Full-Stack, incluindo versionamento com Git, containerização e deploy com Docker, orquestração em Kubernetes, FastAPI, APIs RESTful, front-end com React/Vue, back-end com Node.js, além da integração com AWS, Azure e uso de LLM para automação.</li>
+    <li>📍| Resido em Cubatão - SP, disponível para vagas remotas.</li>
   </ul>
 </div>
 
