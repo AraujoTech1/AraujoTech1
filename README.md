@@ -76,7 +76,7 @@
 
 ## `>_ Como me encontrar`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-araujo-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaaraujo1/)
 [![Gmail](https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xfernandaaraujo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-4c1d95?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/AraujoTech1)
 [![GitLab](https://img.shields.io/badge/GitLab-4c1d95?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xfernandaaraujo)
